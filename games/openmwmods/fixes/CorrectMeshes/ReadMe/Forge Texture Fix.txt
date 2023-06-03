@@ -1,0 +1,9 @@
+Morrowind Forge Texture Fix by LegoManIAm94
+
+The forge model has this angle spot that has a bad texture and does not match the rest of the forge. This will fix it.
+
+Requirements
+Morrowind
+
+To install just download then extract folder and drag the model into Data Files\Meshes\f folder.
+If you don't have the f folder in your Meshes folder then copy the f folder into Data Files\Meshes.

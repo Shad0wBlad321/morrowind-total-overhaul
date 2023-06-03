@@ -1,0 +1,683 @@
+				Patch for Purists - Book Typo Fixes
+				By Half11
+
+Version: 4.0.2
+
+
+Note: Khajiti|Khajiiti|Khajiit| typo fixes are controversial, so we kept those out.
+
+
+Version 4.0.0 Update
+--------------------------------------
+Book:ID=bk_BrownBook426:Name=Brown Book of 3E 426: |Mouth Mallam Ryon, Mage| ==> |Mouth Mallam Ryon|
+Book:ID=bk_BrownBook426:Name=Brown Book of 3E 426: |Mouth Arara Uvulas| ==> |Mouth Galos Mathendis|
+Book:ID=bk_BrownBook426:Name=Brown Book of 3E 426: |Mouth Raven Omayn| ==> |Mouth Arara Uvulas|
+Book:ID=bk_BrownBook426:Name=Brown Book of 3E 426: |Felisa Ulessen| ==> |Mouth Felisa Ulessen|
+Book:ID=bk_BrownBook426:Name=Brown Book of 3E 426: |Mouth Mallam Ryon| ==> |Mouth Raven Omayn|
+Book:ID=bk_notes-kagouti mating habits: |southeastern Morrowind| ==> |southwestern Vvardenfell|
+Book:ID=BookSkill_Speechcraft1:Name=Biography of the Wolf Queen: |90| ==> |70|
+Book:ID=BookSkill_Speechcraft1:Name=Biography of the Wolf Queen: |Antiochius died| ==> |Cephorus died|
+
+
+Version 3.2.0 Update
+--------------------------------------
+Book:ID=bk_dispelrecipe_tgca:Name=Dispel Potion Formula: |form a power| ==> |form a powder|
+Book:ID=bookskill_axe2:Name=The Axe Man: |and felt no anger only a sort of coldness| ==> |and felt no anger, only a sort of coldness|
+Book:ID=BookSkill_LightArmor1:Name=The Rear Guard: |In any rate| ==> |At any rate|
+Book:ID=bk_PilgrimsPath:Name=The Pilgrim's Path: |though the Puzzle Canal| ==> |through the Puzzle Canal|
+
+Version 3.1.0 Update
+--------------------------------------
+Book:ID=bk_corpsepreperation2_c:Name=Corpse Preparation v II: |spikes are between| ==> |spikes between|
+Book:ID=bk_kagrenac'stools:Name=Kagrenac's Tools: |heave| ==> |have|
+
+
+Morrowind
+--------------------------------------
+Book:ID=BookSkill_Short Blade3:Name=2920, Evening Star: |plantlife| ==> |plant life|
+Book:ID=BookSkill_Short Blade3:Name=2920, Evening Star: |sweeping| ==> |swept|
+Book:ID=BookSkill_Short Blade3:Name=2920, Evening Star: |behind one| ==> |into one|
+Book:ID=BookSkill_Spear2:Name=2920, First Seed: |that Akavir| ==> |that Akaviri|
+Book:ID=BookSkill_Spear2:Name=2920, First Seed: |the Akavir| ==> |the Akaviri|
+Book:ID=BookSkill_Spear2:Name=2920, First Seed: |Bodrums| ==> |Bodrum|
+Book:ID=BookSkill_Spear2:Name=2920, First Seed: |conservatorium| ==> |conservatorium.|
+Book:ID=BookSkill_Conjuration4:Name=2920, FrostFall: |hows| ==> |how|
+Book:ID=BookSkill_Conjuration4:Name=2920, FrostFall: |Summurset| ==> |Summerset|
+Book:ID=BookSkill_Conjuration3:Name=2920, Hearth Fire: |ever day| ==> |every day|
+Book:ID=BookSkill_Conjuration3:Name=2920, Hearth Fire: |side the| ==> |side of the|
+Book:ID=BookSkill_Conjuration3:Name=2920, Hearth Fire: |its their| ==> |it's their|
+Book:ID=BookSkill_Sneak2:Name=2920, Last Seed: |Gilderdale| ==> |Gilverdale|
+Book:ID=BookSkill_Heavy Armor2:Name=2920, MidYear: |a two weeks| ==> |a two week|
+Book:ID=BookSkill_Heavy Armor2:Name=2920, MidYear: |clan| ==> |clad|
+Book:ID=BookSkill_Heavy Armor2:Name=2920, MidYear: |idea opportunity| ==> |ideal opportunity|
+Book:ID=BookSkill_Heavy Armor2:Name=2920, MidYear: |wonderous| ==> |wondrous|
+Book:ID=BookSkill_Heavy Armor2:Name=2920, MidYear: |Juilek. “Is| ==> |Juilek, “is|
+Book:ID=BookSkill_Heavy Armor2:Name=2920, MidYear: |word that| ==> |word of|
+Book:ID=BookSkill_Long Blade1:Name=Words and Philosophy: |interview, responding| ==> |interview responding|
+Book:ID=BookSkill_Long Blade2:Name=2920, Morning Star: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=BookSkill_Long Blade2:Name=2920, Morning Star: |Giovesse| ==> |Giovese|
+Book:ID=BookSkill_Long Blade2:Name=2920, Morning Star: |an Akavir| ==> |an Akaviri|
+Book:ID=BookSkill_Restoration4:Name=2920, Rain's Hand: |Oblivion<BR><BR>| ==> |Oblivion<BR><BR><BR>| [the text was correct but there appears to be a display bug; only one <BR> was displayed and then the next line was indented]
+Book:ID=BookSkill_Restoration4:Name=2920, Rain's Hand: |Summurset| ==> |Summerset| [three instances]
+Book:ID=BookSkill_Restoration4:Name=2920, Rain's Hand: |censors| ==> |censers|
+Book:ID=BookSkill_Restoration4:Name=2920, Rain's Hand: |Akavir| ==> |Akaviri| [two instances]
+Book:ID=BookSkill_Speechcraft3:Name=2920, Second Seed: |neivous| ==> |nervous|
+Book:ID=BookSkill_Mysticism2:Name=2920, Sun's Dawn: |Summurset| ==> |Summerset| [two instances]
+Book:ID=BookSkill_Mysticism2:Name=2920, Sun's Dawn: |waves| ==> |waved|
+Book:ID=BookSkill_Mysticism2:Name=2920, Sun's Dawn: |hold worthless| ==> |holds worthless|
+Book:ID=BookSkill_Short Blade2:Name=2920, Sun's Dusk: |Cyrodilic| ==> |Cyrodiilic| [two instances]
+Book:ID=BookSkill_Short Blade2:Name=2920, Sun's Dusk: |shudders| ==> |shutters|
+Book:ID=BookSkill_Athletics3:Name=36 Lessons of Vivec, Sermon 1: |dreughs| ==> |dreugh|
+Book:ID=BookSkill_Blunt Weapon5:Name=36 Lessons of Vivec, Sermon 9: |<DIV ALIGN="LEFT"><BR><BR>| ==> <DIV ALIGN="LEFT">| [last line of the book was an "orphan" on its own page; a typesetter would eliminate this]
+Book:ID=BookSkill_Blunt Weapon5:Name=36 Lessons of Vivec, Sermon 9: |Marshalling| ==> |Marshaling|
+Book:ID=BookSkill_Blunt Weapon5:Name=36 Lessons of Vivec, Sermon 9: |stomach aches| ==> |stomachaches|
+Book:ID=bookskill_unarmored3:Name=36 Lessons of Vivec, Sermon 11: |AMLSIVI| ==> |ALMSIVI|
+Book:ID=BookSkill_Alteration4:Name=36 Lessons of Vivec, Sermon 13: |AMLSIVI| ==> |ALMSIVI|
+Book:ID=bookskill_unarmored4:Name=36 Lessons of Vivec, Sermon 15: |AMLSIVI| ==> |ALMSIVI|
+Book:ID=bookskill_long blade3:Name=36 Lessons of Vivec, Sermon 17: |AMLSIVI| ==> |ALMSIVI|
+Book:ID=BookSkill_Axe5:Name=36 Lessons of Vivec, Sermon 16: |dreughs| ==> |dreugh|
+Book:ID=BookSkill_Axe5_open:Name=36 Lessons of Vivec, Sermon 16: |dreughs| ==> |dreugh|
+Book:ID=bookskill_long blade4:Name=36 Lessons of Vivec, Sermon 20: |nix hounds| ==> |nix-hounds|
+Book:ID=bookskill_long blade4:Name=36 Lessons of Vivec, Sermon 20: |leftovers| ==> |leftover|
+Book:ID=bookskill_light armor5:Name=36 Lessons of Vivec, Sermon 28: |dreughs| ==> |dreugh| [four instances]
+Book:ID=bookskill_light armor5:Name=36 Lessons of Vivec, Sermon 28: |Dreughs| ==> |Dreugh|
+Book:ID=BookSkill_Mysticism4:Name=36 Lessons of Vivec, Sermon 36: |AMLSIVI| ==> |ALMSIVI|
+Book:ID=BookSkill_Mysticism4:Name=36 Lessons of Vivec, Sermon 36: |dreughs| ==> |dreugh|
+Book:ID=BookSkill_Acrobatics2:Name=A Dance in Fire, Chapter 1: |St Alessia| ==> |St. Alessia|
+Book:ID=BookSkill_Acrobatics2:Name=A Dance in Fire, Chapter 1: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=BookSkill_Acrobatics2:Name=A Dance in Fire, Chapter 1: |countryside.  Past| ==> |countryside,  past|
+Book:ID=BookSkill_Block3:Name=A Dance in Fire, Chapter 2: |labyrinthian| ==> |labyrinthine|
+Book:ID=BookSkill_Block3:Name=A Dance in Fire, Chapter 2: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=BookSkill_Block3:Name=A Dance in Fire, Chapter 2: |Jurus's| ==> |Jurus'|
+Book:ID=BookSkill_Block3:Name=A Dance in Fire, Chapter 2: |millennia's| ==> |millennium's|
+Book:ID=BookSkill_Block3:Name=A Dance in Fire, Chapter 2: |minutes time| ==> |minutes' time|
+Book:ID=BookSkill_Block3:Name=A Dance in Fire, Chapter 2: |sharing| ==> |shared|
+Book:ID=BookSkill_Athletics2:Name=A Dance in Fire, Chapter 3: |Summurset| ==> |Summerset|
+Book:ID=BookSkill_Athletics2:Name=A Dance in Fire, Chapter 3: |Breath| ==> |Breathe|
+Book:ID=BookSkill_Athletics2:Name=A Dance in Fire, Chapter 3: |he were| ==> |he was|
+Book:ID=BookSkill_Athletics2:Name=A Dance in Fire, Chapter 3: |jagga| ==> |Jagga|
+Book:ID=BookSkill_Acrobatics3:Name=A Dance in Fire, Chapter 4: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=BookSkill_Marksman2:Name=A Dance in Fire, Chapter 5: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=BookSkill_Marksman2:Name=A Dance in Fire, Chapter 5: |Summurset| ==> |Summerset|
+Book:ID=BookSkill_Marksman2:Name=A Dance in Fire, Chapter 5: |bolt| ==> |arrow|
+Book:ID=bookskill_mercantile4:Name=A Dance in Fire, Chapter 6: |Summurset| ==> |Summerset|
+Book:ID=bookskill_mercantile4:Name=A Dance in Fire, Chapter 6: |addendums| ==> |addenda|
+Book:ID=bookskill_mercantile4:Name=A Dance in Fire, Chapter 6: |Valenwood war| ==> |Valenwood's war|
+Book:ID=bookskill_mercantile5:Name=A Dance in Fire, Chapter 7: |Summurset| ==> |Summerset|
+Book:ID=bookskill_mercantile5:Name=A Dance in Fire, Chapter 7: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=bookskill_mercantile5:Name=A Dance in Fire, Chapter 7: |I'm said| ==> |I said|
+Book:ID=sc_Indie:Name=A dying man's last words: |along| ==> |alone|
+Book:ID=BookSkill_Alchemy1:Name=A Game at Dinner: |<DIV ALIGN="LEFT"><BR><BR>| ==> |<DIV ALIGN="LEFT">|
+Book:ID=BookSkill_Alchemy1:Name=A Game at Dinner: |Forward| ==> |Foreword|
+Book:ID=BookSkill_Alchemy1:Name=A Game at Dinner: |Summurset| ==> |Summerset|
+Book:ID=BookSkill_Alchemy1:Name=A Game at Dinner: |counsellorship| ==> |counselorship|
+Book:ID=BookSkill_Alchemy1:Name=A Game at Dinner: |unholiness's| ==> |unholiness'|
+Book:ID=BookSkill_Alchemy1:Name=A Game at Dinner: |suppliers| ==> |supplier|
+Book:ID=bookskill_destruction3:Name=A Hypothetical Treachery: |labyrinthian| ==> |labyrinthine|
+Book:ID=bk_leaflet_false:Name=A Leaflet: |nix hounds| ==> |nix-hounds|
+Book:ID=bk_ShortHistoryMorrowind:Name=A Short History of Morrowind: |resource could| ==> |resources could|
+Book:ID=bk_AedraAndDaedra:Name=Aedra and Daedra: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=bk_Ajira1:Name=Ajira's Mushroom Report: |nix hound| ==> |nix-hound|
+Book:ID=bk_AncestorsAndTheDunmer:Name=Ancestors and the Dunmer: |ancestor's| ==> |ancestors'|
+Book:ID=bk_AntecedantsDwemerLaw:Name=Antecedants of Dwemer Law: |Sumerset| ==> |Summerset|
+Book:ID=bk_AntecedantsDwemerLaw:Name=Antecedants of Dwemer Law: |Dhark| ==> |Dahrk|
+Book:ID=bk_AntecedantsDwemerLaw:Name=Antecedants of Dwemer Law: |his owned| ==> |is owned|
+Book:ID=bk_AntecedantsDwemerLaw:Name=Antecedants of Dwemer Law: |till they| ==> |until they|
+Book:ID=bk_ArcanaRestored:Name=Arcana Restored: |havest| ==> |hast|
+Book:ID=bk_ArcanaRestored:Name=Arcana Restored: |wickednesses| ==> |wickedness|
+Book:ID=bk_ArcanaRestored:Name=Arcana Restored: |yourself| ==> |thyself| [two instances]
+Book:ID=bk_ArcanaRestored:Name=Arcana Restored: |you| ==> |thee|
+Book:ID=bk_ArcanaRestored:Name=Arcana Restored: |your| ==> |thine|
+Book:ID=bk_ArkayTheEnemy:Name=Arkay the Enemy: |weaklings. Fodder| ==> |weaklings, fodder|
+Book:ID=bk_ArkayTheEnemy:Name=Arkay the Enemy: |stuck| ==> |struck|
+Book:ID=bk_landdeed_hhrd:Name=Ascadian Isles Land Deed: |Andus| ==> |Andus.|
+Book:ID=bk_AuraneFrernis1:Name=Aurane Frernis' Recipies: |Marshmerrow| ==> |marshmerrow|
+Book:ID=bk_auranefrernis2:Name=Aurane Frernis' Recipies: |grave dust| ==> |gravedust|
+Book:ID=bk_auranefrernis2:Name=Aurane Frernis' Recipies: |mixtures| ==> |mixture|
+Book:ID=BookSkill_Sneak3:Name=Azura and the Box: |red-petalled| ==> |red-petaled|
+Book:ID=BookSkill_Sneak3:Name=Azura and the Box: |finally truth| ==> |final truth|
+Book:ID=bk_BeramJournal4:Name=Beram Journal Entry 4: |Norvus's| ==> |Norvus'|
+Book:ID=bk_BiographyBarenziah1:Name=Biography of Barenziah v I: |appropriately-and| ==> |appropriately -- and|
+Book:ID=bk_BiographyBarenziah2:Name=Biography of Barenziah v II: |origin-heiress| ==> |origin: heiress|
+Book:ID=bk_BiographyBarenziah3:Name=Biography of Barenziah v III: |travelled| ==> |traveled|
+Book:ID=bk_BiographyBarenziah3:Name=Biography of Barenziah v III: |that that| ==> |that the|
+Book:ID=bk_BiographyBarenziah3:Name=Biography of Barenziah v III: |friendship-and| ==> |friendship -- and|
+Book:ID=bk_BiographyBarenziah3:Name=Biography of Barenziah v III: |circumstances-supposedly| ==> |circumstances; supposedly|
+Book:ID=bk_BiographyBarenziah3:Name=Biography of Barenziah v III: |Champion-she| ==> |Champion -- she|
+Book:ID=bk_BiographyBarenziah3:Name=Biography of Barenziah v III: |fool-save perhaps Barenziah's -- and| ==> |fool, save perhaps Barenziah's, and|
+Book:ID=bk_BiographyBarenziah3:Name=Biography of Barenziah v III: |could not| ==> |cannot|
+Book:ID=BookSkill_Speechcraft1:Name=Biography of the Wolf Queen: |midst the| ==> |midst of the|
+Book:ID=BookSkill_Speechcraft1:Name=Biography of the Wolf Queen: |month long| ==> |month-long|
+Book:ID=bk_BlasphemousRevenants:Name=Blasphemous Revenants: |a summons| == > |summoning|
+Book:ID=BookSkill_Medium Armor2:Name=Bone, Part One: |Gorklith| ==> |Gorkith| [three instances]
+Book:ID=BookSkill_Medium Armor2:Name=Bone, Part One: |and very| ==> |and a very|
+Book:ID=BookSkill_Medium Armor3:Name=Bone, Part Two: |Gorklith| ==> |Gorkith| [six instances]
+Book:ID=BookSkill_Medium Armor3:Name=Bone, Part Two: |out right| ==> |outright|
+Book:ID=BookSkill_Medium Armor3:Name=Bone, Part Two: |comfortably| ==> |comfort|
+Book:ID=BookSkill_Medium Armor3:Name=Bone, Part Two: |they though| ==> |they thought|
+Book:ID=BookSkill_Alteration1:Name=Breathing Water: |said Tharien| ==> |said Tharien.|
+Book:ID=BookSkill_Alteration1:Name=Breathing Water: |wharfs| ==> |wharves| [two instances]
+Book:ID=BookSkill_Alteration1:Name=Breathing Water: |breath water| ==> |breathe water| [five instances]
+Book:ID=BookSkill_Alteration1:Name=Breathing Water: |breath underwater| ==> |breathe underwater|
+Book:ID=BookSkill_Alteration1:Name=Breathing Water: |Thalien| ==> |Tharien| [three instances]
+Book:ID=BookSkill_Alteration1:Name=Breathing Water: |that that| ==> |that|
+Book:ID=bk_BriefHistoryEmpire1:Name=Brief History of the Empire v 1: |Summurset| ==> |Summerset| [two instances]
+Book:ID=bk_BriefHistoryEmpire1:Name=Brief History of the Empire v 1: |defence| ==> |defense|
+Book:ID=bk_BriefHistoryEmpire2:Name=Brief History of the Empire v 2: |Summurset| ==> |Summerset|
+Book:ID=bk_BriefHistoryEmpire2:Name=Brief History of the Empire v 2: |behaviour| ==> |behavior|
+Book:ID=bk_BriefHistoryEmpire2:Name=Brief History of the Empire v 2: |travelled| ==> |traveled|
+Book:ID=bk_BriefHistoryEmpire2:Name=Brief History of the Empire v 2: |Potema.  The| ==> |Potema, the|
+Book:ID=bk_BriefHistoryEmpire2:Name=Brief History of the Empire v 2: |unlikely-for| ==> |unlikely -- for|
+Book:ID=bk_BriefHistoryEmpire2:Name=Brief History of the Empire v 2: |that previous| ==> |that the previous|
+Book:ID=bk_BriefHistoryEmpire2:Name=Brief History of the Empire v 2: |conspiracy minded| ==> |conspiracy-minded|
+Book:ID=bk_BriefHistoryEmpire3:Name=Brief History of the Empire v 3: |swivelled| ==> |swiveled|
+Book:ID=bk_BriefHistoryEmpire3:Name=Brief History of the Empire v 3: |.  <BR>| ==> |.<BR><BR>| [five instances]
+Book:ID=bk_BriefHistoryEmpire3:Name=Brief History of the Empire v 3: |.<BR>| ==> |.<BR><BR>| [two instances]
+Book:ID=bk_BriefHistoryEmpire4:Name=Brief History of the Empire v 4: |well-practised| ==> |well-practiced|
+Book:ID=bk_BriefHistoryEmpire4:Name=Brief History of the Empire v 4: |endeavours-but| ==> |endeavors -- but|
+Book:ID=bk_BriefHistoryEmpire4:Name=Brief History of the Empire v 4: |Emperors-the| ==> |Emperors -- the|
+Book:ID=bookskill_unarmored2:Name=Charwich-Koniinge, Volume 1: |Suns| ==> |Sun's|
+Book:ID=bookskill_unarmored2:Name=Charwich-Koniinge, Volume 1: |surrounded| ==> |surrounding|
+Book:ID=bookskill_hand to hand3:Name=Charwich-Koniinge, Volume 2: |Pot| ==> |Plot|
+Book:ID=bookskill_hand to hand3:Name=Charwich-Koniinge, Volume 2: |manner that I| ==> |manner than I|
+Book:ID=bookskill_hand to hand3:Name=Charwich-Koniinge, Volume 2: |of crusade| ==> |of a crusade|
+Book:ID=bookskill_hand to hand3:Name=Charwich-Koniinge, Volume 2: |breath| ==> |breathe|
+Book:ID=bookskill_hand to hand3:Name=Charwich-Koniinge, Volume 2: |ordinator| ==> |Ordinator|
+Book:ID=bookskill_hand to hand4:Charwich-Koniinge, Volume 4: |Summurset| ==> |Summerset| [two instances]
+Book:ID=bookskill_medium armor1:Name=Cherim's Heart of Anequina: |in command| ==> |on command|
+Book:ID=bookskill_medium armor1:Name=Cherim's Heart of Anequina: |principle| ==> |principal|
+Book:ID=bk_ChildrenOfTheSky:Name=Children of the Sky: |people;| ==> |people,|
+Book:ID=BookSkill_Heavy Armor3:Name=Chimarvamidium: |Barif has| ==> |Barif had|
+Book:ID=BookSkill_Heavy Armor3:Name=Chimarvamidium: |it's meaning| ==> |its meaning|
+Book:ID=BookSkill_Heavy Armor3:Name=Chimarvamidium: |collection, which| ==> |collection which|
+Book:ID=bk_Confessions:Name=Confessions of a Skooma-Eater: |appetising| ==> |appetizing|
+Book:ID=bk_Confessions:Name=Confessions of a Skooma-Eater: |derivative moon-sugar| ==> |derivative of moon sugar|
+Book:ID=bk_stronghold_c_hlaalu:Name=Construction Contract: |reverts| ==> |revert|
+Book:ID=bk_corpsepreperation1_c:Name=Corpse Preparation v I: |near coast| ==> |near the coast|
+Book:ID=bk_corpsepreperation1_o:Name=Corpse Preparation v I: |near coast| ==> |near the coast|
+Book:ID=bk_corpsepreperation3_c:Name=Corpse Preparation v III: |it not| ==> |it is not|
+Book:ID=bk_corpsepreperation3_c:Name=Corpse Preparation v III: |Argonian| ==> |Argonia|
+Book:ID=bk_corpsepreperation3_c:Name=Corpse Preparation v III: |servant, the| ==> |servant; the|
+Book:ID=bk_darkestdarkness:Name=Darkest Darkness: |Mehrunes Razor| ==> |Mehrunes' Razor|
+Book:ID=BookSkill_Block1:ID=Death Blow of Abernanit: |<DIV ALIGN="LEFT"><BR><BR>| ==> <DIV ALIGN="LEFT">| [last line of the book was an "orphan" on its own page; a typesetter would eliminate this]
+Book:ID=BookSkill_Block1:ID=Death Blow of Abernanit: |forelorn| ==> |forlorn|
+Book:ID=BookSkill_Block1:ID=Death Blow of Abernanit: |villiany's| ==> |villainy's|
+Book:ID=BookSkill_Block1:ID=Death Blow of Abernanit: |cruellest| ==> |cruelest|
+Book:ID=BookSkill_Block1:ID=Death Blow of Abernanit: |the the| ==> |the|
+Book:ID=BookSkill_Block1:ID=Death Blow of Abernanit: |absord| ==> |absorb|
+Book:ID=BookSkill_Block1:ID=Death Blow of Abernanit: |fever glassed| ==> |fever-glassed|
+Book:ID=bk_a1_1_packagedecoded:Name=decoded package: [name itself] |decoded package| ==> |Decoded Package|
+Book:ID=bk_a1_1_packagedecoded:Name=decoded package: |in its several| ==> |in several|
+Book:ID=bk_indreledeed:Name=Deed to Indrele's House: |Velando| ==> |Velanda| [although this deed is forged, Velanda Omani forged it, as she will say to the PC "You ruined my plans, %PCName" when the deed is taken from her, unless the PC is the Hlaalu Grandmaster, in which case she will lie that it was a retainer's forgery.  She would not have misspelt her own name.]
+Book:ID=bk_Ibardad_Elante_notes:Name=Elante's Notes: |Mordins's| ==> |Mordrin's|
+Book:ID=BookSkill_Enchant1:Name=Feyfolken I: |Summurset| ==> |Summerset| [two instances]
+Book:ID=BookSkill_Enchant1:Name=Feyfolken I: |SUNDAS'S| ==> |SUNDAS'|
+Book:ID=BookSkill_Conjuration2:Name=Feyfolken III: |primative| ==> |primitive|
+Book:ID=BookSkill_Conjuration2:Name=Feyfolken III: |Thaubad| ==> |Thaurbad|
+Book:ID=bk_formygodsandemperor:Name=For my Gods and Emperor: Sentence |Non-members pay 25 drakes. | is duplicated.
+Book:ID=bk_fragmentonartaeum:Name=Fragment: On Artaeum: |Summurset| ==> |Summerset| [three instances]
+Book:ID=bk_fragmentonartaeum:Name=Fragment: On Artaeum: |Sumurset| ==> |Summerset|
+Book:ID=bk_fragmentonartaeum:Name=Fragment: On Artaeum: |counsellors| ==> |counselors|
+Book:ID=bk_fragmentonartaeum:Name=Fragment: On Artaeum: |Tamrielan| ==> |Tamrielic|
+Book:ID=bk_frontierconquestaccommodat:Name=Frontier, Conquest...: |proto-Cyrodilians| ==> |proto-Cyrodiils| [the correct form is repeated later in the book]
+Book:ID=bk_galerionthemystic:Name=Galerion The Mystic: |nonexistant| ==> |nonexistent|
+Book:ID=bk_galerionthemystic:Name=Galerion The Mystic: |Summurset| ==> |Summerset|
+Book:ID=bk_galerionthemystic:Name=Galerion The Mystic: |Galarion| ==> |Galerion|
+Book:ID=bk_galerionthemystic:Name=Galerion The Mystic: |small scale| ==> |small-scale|
+Book:ID=bk_galerionthemystic:Name=Galerion The Mystic: |Trechtus's| ==> |Trechtus'|
+Book:ID=bk_galur_rithari's_papers:Name=Galur Rithari's Papers: |some for| ==> |some way for|
+Book:ID=bk_uleni's_papers:Name=Ghost-Free Papers: |Hereas| ==> |Whereas|
+Book:ID=bk_graspingfortune:Name=Grasping Fortune: |each other| ==> |others|
+Book:ID=bk_great_houses:Name=Great Houses of Morrowind: |clan and| ==> |clans and|
+Book:ID=bk_guide_to_ald_ruhn:Name=Guide to Ald'ruhn: |Priniciple| ==> |Principal|
+Book:ID=bk_guide_to_ald_ruhn:Name=Guide to Ald'ruhn: |Pricy| ==> |Pricey|
+Book:ID=bk_guide_to_ald_ruhn:Name=Guide to Ald'ruhn: |Andarysis| ==> |Andarys is|
+Book:ID=bk_guide_to_balmora:Name=Guide to Balmora: |the southeast| ==> |the northwest|
+Book:ID=bk_guide_to_balmora:Name=Guide to Balmora: |counselors| ==> |councilors|
+Book:ID=bk_guide_to_sadrithmora:Name=Guide to Sadrith Mora: |Nigiliusis is Mages| ==> |Nigilius is the Mages|
+Book:ID=bk_guide_to_vivec:Name=Guide to Vivec: |eastmost| ==> |easternmost|
+Book:ID=bk_guide_to_vivec:Name=Guide to Vivec: |westmost| ==> |westernmost|
+Book:ID=bk_guide_to_vvardenfell:Name=Guide to Vvardenfell: |northeastmost| ==> |northeasternmost|
+Book:ID=bk_guide_to_vvardenfell:Name=Guide to Vvardenfell: |Vvardefell| ==> |Vvardenfell| [two instances]
+Book:ID=bk_guide_to_vvardenfell:Name=Guide to Vvardenfell: |Hawk Moth| ==> |Hawkmoth|
+Book:ID=bk_guide_to_vvardenfell:Name=Guide to Vvardenfell: |of Ald Veloth| => |of Ald Velothi|
+Book:ID=bk_hanginggardenswasten:Name=Hanging Gardens...: |Aldmeris is| ==> |Aldmeris are|
+Book:ID=bk_a1_2_antabolistocosades:Name=Hasphat's notes for Cosades: [name] |notes| ==> |Notes|
+Book:ID=bk_a1_2_antabolistocosades:Name=Hasphat's notes for Cosades: |sorceries.<BR>| ==> |sorceries.<BR><BR>|
+Book:ID=bk_HomiliesOfBlessedAlmalexia:Name=Homilies of Blessed Almalexia: |of its| ==> |of his|
+Book:ID=bk_hospitality_papers:Name=Hospitality Papers: |Hereas| ==> |Whereas|
+Book:ID=bk_hospitality_papers:Name=Hospitality Papers: |his own| ==> |his or her own|
+Book:ID=bk_hospitality_papers:Name=Hospitality Papers: |do not| ==> |does not|
+Book:ID=bookskill_heavy armor4:Name=How Orsinium Passed to the Orcs: |Berylth| ==> |Berylith| [four instances]
+Book:ID=bookskill_heavy armor4:Name=How Orsinium Passed to the Orcs: |emisary| ==> |emissary|
+Book:ID=bookskill_heavy armor4:Name=How Orsinium Passed to the Orcs: |Your try| ==> |You try|
+Book:ID=BookSkill_Light Armor2:Name=Ice and Chiton: [name itself] |Chiton| ==> |Chitin|
+Book:ID=BookSkill_Light Armor2:Name=Ice and Chiton: |was would| ==> |would|
+Book:ID=BookSkill_Light Armor2:Name=Ice and Chiton: |warlords'| ==> |warchiefs'|
+Book:ID=bookskill_illusion3:Name=Incident in Necrom: |combatter| ==> |combattant|
+Book:ID=bookskill_illusion3:Name=Incident in Necrom: |Cyrodilic| ==> |Cyrodillic|
+Book:ID=bookskill_illusion3:Name=Incident in Necrom: |questors| ==> |questers|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |Schemer Princess| ==> |Schemer Prince|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |to her cultists| ==> |to his cultists|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |Boethiah-and| ==> |Boethiah -- and|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |Warrior Princess| ==> |Warrior Prince|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |Daedroth| ==> |Daedra|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |for a mistress| ==> |for a master|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |summon her on| ==> |summon him on|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |in her honor| ==> |in his honor|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |for her cultists-she| ==> |for his cultists -- he|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |saw her smile| ==> |saw him smile|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |pleased her| ==> |pleased him|
+Book:ID=bk_InvocationOfAzura:Name=Invocation of Azura: |Nocturnal-Nocturnal| ==> |Nocturnal -- Nocturnal|
+Book:ID=bk_kagrenac'sjournal_excl:Name=Kagrenac's Journal: |Journals'.| ==> |Journal.'|
+Book:ID=bk_kagrenac'splans_excl:Name=Kagrenac's Planbook: |Ald Aldmeris| ==> |Aldmeris|
+Book:ID=bk_kagrenac'stools:Name=Kagrenac's Tools: |Priests ]| ==> |Priests]|
+Book:ID=BookSkill_Armorer2:Name=Last Scabbard of Akrash: |had had| ==> |had|
+Book:ID=BookSkill_Armorer2:Name=Last Scabbard of Akrash: |particular as| ==> |particularly as|
+Book:ID=bk_LivesOfTheSaints:Name=Lives of the Saints: |St. Nerevar| ==> |Saint Nerevar|
+Book:ID=bk_LivesOfTheSaints:Name=Lives of the Saints: |all House| ==> |all Houses|
+Book:ID=bookskill_light armor3:Name=Lord Jornibret's Last Dance: |It 'twas| ==> |'Twas|
+Book:ID=bookskill_hand to hand5:Name=Master Zoaraym's Tale: |Omathan| ==> |Omothan|
+Book:ID=bk_MysteriousAkavir:Name=Mysterious Akavir: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=BookSkill_Acrobatics5:Name=Mystery of Talara, Part 1: |tale end| ==> |tail end|
+Book:ID=BookSkill_Acrobatics5:Name=Mystery of Talara, Part 1: |it way| ==> |its way|
+Book:ID=BookSkill_Acrobatics5:Name=Mystery of Talara, Part 1: |caused.<BR>| ==> |caused.<BR><BR>|
+Book:ID=BookSkill_Acrobatics5:Name=Mystery of Talara, Part 1: |ago.”<BR>| ==> |ago.”<BR><BR>|
+Book:ID=BookSkill_Restoration5:Name=Mystery of Talara, Part 2: |was long| ==> |was a long|
+Book:ID=BookSkill_Restoration5:Name=Mystery of Talara, Part 2: |a ways| ==> |a way|
+Book:ID=BookSkill_Restoration5:Name=Mystery of Talara, Part 2: |Lets| ==> |Let's|
+Book:ID=bookskill_illusion5:Name=Mystery of Talara, Part 4: |learned her| ==> |learned from her|
+Book:ID=bookskill_illusion5:Name=Mystery of Talara, Part 4: |Emperor the late king your brother| ==> |Emperor that the late king, your brother,|
+Book:ID=bookskill_mystery5:Name=Mystery of Talara, Part 5: |supercedes| ==> |supersedes|
+Book:ID=bookskill_mystery5:Name=Mystery of Talara, Part 5: |Princess's| ==> |Princess'| [two instances]
+Book:ID=bookskill_blunt weapon3:Name=Night Falls On Sentinel: |being question| ==> |being questioned|
+Book:ID=bookskill_blunt weapon3:Name=Night Falls On Sentinel: |surprise.  Even| ==> |surprise,  even|
+Book:ID=bookskill_blunt weapon3:Name=Night Falls On Sentinel: |a that| ==> |o' that|
+Book:ID=bk_Nerano:Name=Note from Bakarak: |organisation| ==> |organization|
+Book:ID=bk_notefrombildren:Name=Note From Bildren: [name itself] |From| ==> |from|
+Book:ID=bk_notefromernil:Name=Note From Ernil: [name itself] |From| ==> |from|
+Book:ID=bk_NoteFromJ'Zhirr:Name=Note from J'zhirr: [name itself] |J'zhirr| ==> |J'Zhirr|
+Book:ID=bk_notefromradras:Name=Note From Radras: [name itself] |From| ==> |from|
+Book:ID=bk_saryoni_note:Name=note from the Archcanon: [name itself] |note| ==> |Note|
+Book:ID=bk_saryoni_note:Name=note from the Archcanon: |written| ==> |Written|
+Book:ID=bk_saryoni_note:Name=note from the Archcanon: |archcanon| ==> |Archcanon|
+Book:ID=bk_saryoni_note:Name=note from the Archcanon: |archcanon's| ==> |Archcanon's|
+Book:ID=bk_saryoni_note:Name=note from the Archcanon: |Heirographa| ==> |Hierographa|
+Book:ID=bk_NoteToAmaya:Name=Note to Amaya: |your| ==> |Your|
+Book:ID=bk_Dren_Hlevala_note:Name=Note to Hlevala: |Gah-Julan| ==> |Gah Julan|
+Book:ID=bk_Dren_Hlevala_note:Name=Note to Hlevala: |Tulz| ==> |Tul|
+Book:ID=bk_notetoinorra:Name=Note to Inorra: |Elyneaox| ==> |Elynea|
+Book:ID=bk_notetocalderamages:Name=Note to Mages: |Keseena| ==> |Kiseena|
+Book:ID=bk_notebyaryon:Name=Notes by Aryon: |NGasta| ==> |N'Gasta|
+Book:ID=bk_A1_7_HuleeyaInformant:Name=Notes from Huleeya: |and the Nerevarine Cult<BR>| ==> |and the Nerevarine Cult<BR><BR>|
+Book:ID=bk_A1_7_HuleeyaInformant:Name=Notes from Huleeya: |Nerevarines| ==> |Nerevarine| [three instances]
+Book:ID=bookskill_restoration2:Name=Notes on Racial Phylogeny: |only their| ==> |only in their|
+Book:ID=bookskill_restoration2:Name=Notes on Racial Phylogeny: |but their| ==> |but in their|
+Book:ID=bookskill_restoration2:Name=Notes on Racial Phylogeny: |troglophile| ==> |limnophilic| [means 'swamp-loving.' The best information that could be found indicates Argonians live in trees, huts and caves, not exclusively caves.]
+Book:ID=bk_notetocalderaguard:Name=NoteToCalderaGuard: [name itself] |NoteToCalderaGuard| ==> |Note to Caldera Guards|
+Book:ID=bk_BriefHistoryEmpire1_oh:Name=Odral's History of the Empire 1: |Summurset| ==> |Summerset| [two instances]
+Book:ID=bk_BriefHistoryEmpire1_oh:Name=Odral's History of the Empire 1: |defence| ==> |defense|
+Book:ID=bk_BriefHistoryEmpire2_oh:Name=Odral's History of the Empire 2: |Summurset| ==> |Summerset|
+Book:ID=bk_BriefHistoryEmpire2_oh:Name=Odral's History of the Empire 2: |behaviour| ==> |behavior|
+Book:ID=bk_BriefHistoryEmpire2_oh:Name=Odral's History of the Empire 2: |travelled| ==> |traveled|
+Book:ID=bk_BriefHistoryEmpire2_oh:Name=Odral's History of the Empire 2: |Potema.  The| ==> |Potema, the|
+Book:ID=bk_BriefHistoryEmpire2_oh:Name=Odral's History of the Empire 2: |unlikely-for| ==> |unlikely -- for|
+Book:ID=bk_BriefHistoryEmpire2_oh:Name=Odral's History of the Empire 2: |that previous| ==> |that the previous|
+Book:ID=bk_BriefHistoryEmpire2_oh:Name=Odral's History of the Empire 2: |conspiracy minded| ==> |conspiracy-minded|
+Book:ID=bk_BriefHistoryEmpire3_oh:Name=Odral's History of the Empire 3: |swivelled| ==> |swiveled|
+Book:ID=bk_BriefHistoryEmpire3_oh:Name=Odral's History of the Empire 3: |.  <BR>| ==> |.<BR><BR>| [five instances]
+Book:ID=bk_BriefHistoryEmpire3_oh:Name=Odral's History of the Empire 3: |.<BR>| ==> |.<BR><BR>| [two instances]
+Book:ID=bk_BriefHistoryEmpire4_oh:Name=Odral's History of the Empire 4: |well-practised| ==> |well-practiced|
+Book:ID=bk_BriefHistoryEmpire4_oh:Name=Odral's History of the Empire 4: |endeavours-but| ==> |endeavors -- but|
+Book:ID=bk_BriefHistoryEmpire4_oh:Name=Odral's History of the Empire 4: |Emperors-the| ==> |Emperors -- the|
+Book:ID=bk_OnMorrowind:Name=On Morrowind: |Sumerset| ==> |Summerset|
+Book:ID=bk_orderfrommollismo:Name=Order From Mollismo: [name itself] |Mollismo| ==> |Mollimo|
+Book:ID=bk_orderfrommollismo:Name=Order From Mollismo: |Mollismo| ==> |Mollimo|
+Book:ID=bk_eggorders:Name=Order Manifest: |kwaama| ==> |kwama|
+Book:ID=bk_ordolegionis:Name=Ordo Legionis: |Recruit| ==> |Recruits|
+Book:ID=bk_OriginOfTheMagesGuild:Name=Origin of the Mages Guild: |Summurset| ==> |Summerset| [three instances]
+Book:ID=bk_OriginOfTheMagesGuild:Name=Origin of the Mages Guild: |counsellors| ==> |counselors|
+Book:ID=bk_OriginOfTheMagesGuild:Name=Origin of the Mages Guild: |Tamrielan| ==> |Tamrielic|
+Book:ID=bk_OverviewOfGodsAndWorship:Name=Overview of Gods and Worship: |gods| ==> |Gods| [three instances]
+Book:ID=bk_OverviewOfGodsAndWorship:Name=Overview of Gods and Worship: |This my| ==> |This is my|
+Book:ID=bk_OverviewOfGodsAndWorship:Name=Overview of Gods and Worship: |of daily| ==> |in daily|
+Book:ID=bk_ILHermit_Page:Name=Page from History of the Empire: |unkown| ==> |unknown|
+Book:ID=bookskill_illusion4:Name=Palla, Book I: |Tendixus's| ==> |Tendixus'|
+Book:ID=bookskill_illusion4:Name=Palla, Book I: |poured| ==> |pored|
+Book:ID=bookskill_illusion4:Name=Palla, Book I: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=bookskill_illusion4:Name=Palla, Book I: |be young| ==> |be a young|
+Book:ID=bookskill_enchant3:Name=Palla, Book II: |Summurset| ==> |Summerset|
+Book:ID=bookskill_enchant3:Name=Palla, Book II: |great grandfather| ==> |great-grandfather|
+Book:ID=bookskill_enchant3:Name=Palla, Book II: |great grandfather's| ==> |great-grandfather's|
+Book:ID=bk_vivecs_plan:Name=Plan to Defeat Dagoth Ur: |Nerevaine| ==> |Nerevarine|
+Book:ID=bk_vivecs_plan:Name=Plan to Defeat Dagoth Ur: |simultaneous with| ==> |simultaneously with|
+Book:ID=bk_vivecs_plan:Name=Plan to Defeat Dagoth Ur: |mortal Kagrenac| ==> |mortal Dagoth Ur|
+Book:ID=bk_vivecs_plan:Name=Plan to Defeat Dagoth Ur: |wish rise| ==> |wish to rise|
+Book:ID=bk_poisonsong1:Name=Poison Song I: |absolutely| ==> |absolute|
+Book:ID=bk_poisonsong1:Name=Poison Song I: |bewildering| ==> |bewilderingly|
+Book:ID=bk_poisonsong1:Name=Poison Song I: | late-ly| ==> | lately|
+Book:ID=bk_poisonsong4:Name=Poison Song IV: |and head| ==> |and head.|
+Book:ID=bk_poisonsong4:Name=Poison Song IV: |What you| ==> |What have you|
+Book:ID=bk_poisonsong5:Name=Poison Song V: |Grafisi| ==> |Gafrisi|
+Book:ID=bk_poisonsong5:Name=Poison Song V: |Baynara| ==> |Baynarah|
+Book:ID=bk_poisonsong6:Name=Poison Song VI: |guars| ==> |guar|
+Book:ID=bk_poisonsong6:Name=Poison Song VI: |Baynara| ==> |Baynarah|
+Book:ID=bk_poisonsong6:Name=Poison Song VI: |said Baynarah<BR>| ==> |said Baynarah.<BR>|
+Book:ID=bk_poisonsong7:Name=Poison Song VII: |Baynara| ==> |Baynarah|
+Book:ID=bk_poisonsong7:Name=Poison Song VII: |who slaved| ==> |who enslaved|
+Book:ID=bk_V_hlaaluprison:Name=Prisoner Checklist: |an noble| ==> |a noble|
+Book:ID=bk_progressoftruth:Name=Progress of Truth: |sorceror| ==> |sorcerer|
+Book:ID=bk_progressoftruth:Name=Progress of Truth: |Heirographa| ==> |Hierographa|
+Book:ID=bk_provinces_of_tamriel:Name=Provinces of Tamriel: |northeastmost| ==> |northeasternmost|
+Book:ID=bk_provinces_of_tamriel:Name=Provinces of Tamriel: |Vvardenfel| ==> |Vvardenfell|
+Book:ID=bk_provinces_of_tamriel:Name=Provinces of Tamriel: |traditions. <BR>| ==> |traditions. <BR><BR>|
+Book:ID=bk_NerevarineNotice:Name=Public notice: |Vvardenfel| ==> |Vvardenfell|
+Book:ID=bookskill_acrobatics1:Name=Realizations of Acrobacy: |similiarly| ==> |similarly|
+Book:ID=bk_redbook426:Name=Red Book of 3E 426: |Vardenfell| ==> |Vvardenfell|
+Book:ID=bk_redbook426:Name=Red Book of 3E 426: |were not| ==> |was not|
+Book:ID=bk_redbook426:Name=Red Book of 3E 426: |Lord Ald'ruhn of| ==> |Lord of Ald'ruhn, of|
+Book:ID=bk_redorancookingsecrets:Name=Redoran Cooking Secrets: |hot over| ==> |hot oven|
+Book:ID=bk_redorancookingsecrets:Name=Redoran Cooking Secrets: |eggs| ==> |egg|
+Book:ID=bk_reflectionsoncultworship...:Name=Reflections on Cult Worship: |<DIV ALIGN="LEFT"><BR><BR>| ==> <DIV ALIGN="LEFT">| [last line of the book was an "orphan" on its own page; a typesetter would eliminate this]
+Book:ID=bk_reflectionsoncultworship...:Name=Reflections on Cult Worship: |welcomed.<BR>| ==> |welcomed.<BR><BR>|
+Book:ID=chargen statssheet:Name=Release Identification: |%PCName| ==> |%PCName<BR>|
+Book:ID=chargen statssheet:Name=Release Identification: |%PCRace| ==> |%PCRace<BR>|
+Book:ID=chargen statssheet:Name=Release Identification: |Signed,| ==> |Signed,<BR>|
+Book:ID=chargen statssheet:Name=Release Identification: |Ergalla| ==> |Ergalla<BR>|
+Book:ID=chargen statssheet:Name=Release Identification: |Excise.| ==> |Excise.<BR>|
+Book:ID=bk_shalitjournal_deal:Name=Rels Tenim Journal Page: |Mulvrulea| ==> |Muvrulea|
+Book:ID=bk_shalitjournal_deal:Name=Rels Tenim Journal Page: |galleries| ==> |galleries,|
+Book:ID=bookskill_destruction2:Name=Response to Bero's Speech: |heresay| ==> |hearsay|
+Book:ID=bookskill_destruction2:Name=Response to Bero's Speech: |megalomaniac| ==> |megalomaniacal|
+Book:ID=bookskill_destruction2:Name=Response to Bero's Speech: |spell matters| ==> |spell matter|
+Book:ID=bookskill_destruction2:Name=Response to Bero's Speech: |Destruction, is| ==> |Destruction is|
+Book:ID=text_paper_roll_01:Name=Rolled Paper: [name itself] |Paper| ==> |paper|
+Book:ID=bk_SaryonisSermons:Name=Saryoni's Sermons: |Humilty| ==> |Humility|
+Book:ID=bk_saryonisermonsmanuscript:Name=Saryoni's Sermons Manuscript: |Humilty| ==> |Humility|
+Book:ID=sc_FiercelyRoastThyEnemy_unique:Name=Scroll of Fiercely Roasting: |SERVENTS| ==> |SERVANTS|
+Book:ID=sc_Tyronius:Name=Scroll of Tyronius: [name itself] |Scroll of Tyronius| ==> |Tyronius' Scroll| ["Scroll of..." is used for spell scrolls]
+Book:ID=sc_vaerminaspromise:Name=Scroll of Vaermina's Promise: [name itself] |Vaermina's| ==> |Vaernima's|
+Book:ID=bk_seniliasreport:Name=Senilius' Report: [name itself] |Senilius'| ==> |Senilias'|
+Book:ID=bk_seniliasreport:Name=Senilius' Report: |lack results| ==> |lack of results|
+Book:ID=bk_seniliasreport:Name=Senilius' Report: |Senilius| ==> |Senilias|
+Book:ID=bookskill_illusion2:Name=Silence: |Darothil| ==> |Darothril| [five instances]
+Book:ID=bookskill_illusion2:Name=Silence: |Calissah| ==> |Calissiah|
+Book:ID=bookskill_illusion2:Name=Silence: |award| ==> |reward|
+Book:ID=bookskill_spear1:Name=Smuggler's Island: |was were| ==> |was where|
+Book:ID=bookskill_spear1:Name=Smuggler's Island: |fechers| ==> |fetchers|
+Book:ID=bookskill_security5:Name=Surfeit of Thieves: |that that there| ==> |that they|
+Book:ID=bookskill_security5:Name=Surfeit of Thieves: |St Eadnua| ==> |St. Eadnua|
+Book:ID=bookskill_security5:Name=Surfeit of Thieves: |in time| ==> |to time|
+Book:ID=bk_TalMarogKersResearches:Name=Tal Marog Ker's Researches: |traffickings| ==> |trafficking|
+Book:ID=bk_TalMarogKersResearches:Name=Tal Marog Ker's Researches: |hurled in| ==> |hurled it|
+Book:ID=bk_TalMarogKersResearches:Name=Tal Marog Ker's Researches: |Saviour's| ==> |Savior's|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |It is she| ==> |It is he|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |Ring of the Khajiit| ==> |Ring of Khajiit|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |Mehrunes Razor| ==> |Mehrunes' Razor|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |Mehrune's Razor| ==> |Mehrunes' Razor|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |lhas| ==> |has|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |it's weilder| ==> |its wielder|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |wearers| ==> |wearer's|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |Eidelon| ==> |Eleidon|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |sought after| ==> |sought-after|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |to be resist| ==> |to resist|
+Book:ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore: |<BR>Daedric| ==> |<BR><BR>Daedric|
+Book:ID=bk_Aedra_Tarer_Unique:Name=Tarer's Aedra and Daedra: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=bk_seydaneentaxrecord:Name=Tax Record: |Grivayne| ==> |Girvayne| [note that first name "Terurise" will be corrected by correcting the NPC name, as the cell name is spelled this way]
+Book:ID=bk_AlchemistsFormulary:Name=The Alchemists Formulary: [name itself] |Alchemists| ==> |Alchemist's|
+Book:ID=bk_ArcturianHeresy:Name=The Arcturian Heresy: |Imperil| ==> |Imperial|
+Book:ID=bk_ArcturianHeresy:Name=The Arcturian Heresy: |it's potential| ==> |its potential|
+Book:ID=bk_ArcturianHeresy:Name=The Arcturian Heresy: |flailings| ==> |flailing|
+Book:ID=bk_vivec_no_murder:Name=The Battle of Red Mountain: |Nerever| ==> |Nerevar|
+Book:ID=bk_vivec_no_murder:Name=The Battle of Red Mountain: |distant past.| ==> |distant past?|
+Book:ID=BookSkill_Acrobatics4:Name=The Black Arrow, Volume 1: [name] |1| ==> |I|
+Book:ID=bk_BlueBookOfRiddles:Name=The Blue Book of Riddles: |St| ==> |St.|
+Book:ID=bk_BookOfDaedra:Name=The Book of Daedra: |mortals souls| ==> |mortals' souls|
+Book:ID=bk_BookDawnAndDusk:Name=The Book of Dawn and Dusk: |<DIV ALIGN="LEFT"><BR><BR>| ==> <DIV ALIGN="LEFT">| [last line of the book was an "orphan" on its own page; a typesetter would eliminate this]
+Book:ID=bk_BrothersOfDarkness:Name=The Brothers of Darkness: |Alimahera's| ==> |Arlimahera's|
+Book:ID=bk_BrothersOfDarkness:Name=The Brothers of Darkness: |coven-occasionally| ==> |coven -- occasionally|
+Book:ID=bk_BrothersOfDarkness:Name=The Brothers of Darkness: |opportunities-an| ==> |opportunities -- an|
+Book:ID=bookskill_mercantile1:Name=The Buying Game: |Summurset| ==> |Summerset|
+Book:ID=bookskill_mercantile1:Name=The Buying Game: |all, you| ==> |all; you|
+Book:ID=bk_ConsolationsOfPrayer:Name=The Consolations of Prayer: |Felm's| ==> |Felms'|
+Book:ID=bk_ConsolationsOfPrayer:Name=The Consolations of Prayer: |Meris's| ==> |Meris'|
+Book:ID=bk_ConsolationsOfPrayer:Name=The Consolations of Prayer: |Olm's| ==> |Olms'|
+Book:ID=bk_ConsolationsOfPrayer:Name=The Consolations of Prayer: |Rilm's| ==> |Rilms'|
+Book:ID=bk_ConsolationsOfPrayer:Name=The Consolations of Prayer: |Roris's| ==> |Roris'|
+Book:ID=BookSkill_Security3:Name=The Dowry: |fashion that| ==> |fashion than|
+Book:ID=bookskill_enchant5:Name=The Final Lesson: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=bookskill_enchant5:Name=The Final Lesson: |become respected| ==> |become a respected|
+Book:ID=bk_firmament:Name=The Firmament: |Heartfire| ==> |Hearthfire|
+Book:ID=bk_firmament:Name=The Firmament: |<BR><BR><BR><BR>The Apprentice| ==> |<BR><BR>The Apprentice|
+Book:ID=bk_firmament:Name=The Firmament: |<BR><BR><BR>The Ritual| ==> |<BR><BR>The Ritual|
+Book:ID=bk_firmament:Name=The Firmament: |season| ==> |Season| [five instances]
+Book:ID=bookskill_mysticism1:Name=The Firsthold Revolt: |Summurset| ==> |Summerset|
+Book:ID=bookskill_mysticism1:Name=The Firsthold Revolt: |siegers| ==> |besiegers|
+Book:ID=bookskill_mysticism1:Name=The Firsthold Revolt: |if as| ==> |if, as|
+Book:ID=bookskill_mysticism1:Name=The Firsthold Revolt: |that a| ==> |than a|
+Book:ID=bookskill_mysticism1:Name=The Firsthold Revolt: |was he| ==> |what he|
+Book:ID=bookskill_restoration3:Name=The Four Suitors of Benitah: |picketpocketed| ==> |pickpocketed|
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |Cyrodilic| ==> |Cyrodiilic| [two instances]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |don't know no| ==> |know no| [corrected in the Tribunal bk_playscript edition]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |garb stands| ==> |garb, stands| [see above]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |No thank| ==> |No, thank| [see above]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |master Sedura| ==> |master, Sedura| [see above]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |Xyr is| ==> |Xyr, is| [see above]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |coulda been| ==> |would be| [see above]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |We got| ==> |We have| [see above]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |fades I'm| ==> |fades, I'm| [see above]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |fortitude to| ==> |fortitude against| [see above]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |ever day| ==> |every day|
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |ashlander| ==> |Ashlander| [three instances; two were corrected in the Tribunal bk_playscript edition]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |been round| ==> |been 'round|
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |crystalized| ==> |crystallized|
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |expotentially| ==> |exponentially|
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |similiar| ==> |similar|
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |ANANA/IACHILLA| ==> |ANARA/IACHILLA| [two instances]
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |Anana/Iachilla| ==> |Anara/Iachilla|
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |torchs| ==> |torches|
+Book:ID=bookskill_destruction1:Name=The Horror of Castle Xyr: |mage| ==> |mage.|
+Book:ID=bk_madnessofpelagius:Name=The Madness of Pelagius: |king's| ==> |king|
+Book:ID=bk_madnessofpelagius:Name=The Madness of Pelagius: |Suns| ==> |Sun's| [two instances]
+Book:ID=bookskill_marksman4:Name=The Marksmanship Lesson: |Indoriil| ==> |Indoril|
+Book:ID=bookskill_marksman4:Name=The Marksmanship Lesson: |ill suited| ==> |ill-suited|
+Book:ID=bookskill_marksman4:Name=The Marksmanship Lesson: |bow.<BR>Brin| ==> |bow.<BR><BR>Brin|
+Book:ID=bk_manyfacesmissinggod:Name=The Monomyth: |Cyrodilic| ==> |Cyrodiilic| [two instances]
+Book:ID=bk_manyfacesmissinggod:Name=The Monomyth: |Rupgta| ==> |Ruptga|
+Book:ID=bk_manyfacesmissinggod:Name=The Monomyth: |Psijiic| ==> |Psijic|
+Book:ID=bk_manyfacesmissinggod:Name=The Monomyth: |Psijiici| ==> |Psijics|
+Book:ID=bk_oldways:Name=The Old Ways: |counsellors| ==> |counselors| [two instances]
+Book:ID=bk_oldways:Name=The Old Ways: |counselled| ==> |counseled|
+Book:ID=bk_PigChildren:Name=The Pig Children: |Era.  <BR><BR>| ==> |Era.| [trailing newlines]
+Book:ID=bk_PigChildren:Name=The Pig Children: |<DIV ALIGN="LEFT"><BR><BR>| ==> <DIV ALIGN="LEFT">| [last line of the book was an "orphan" on its own page; a typesetter would eliminate this]
+Book:ID=bk_PilgrimsPath:Name=The Pilgrim's Path: |<DIV ALIGN="LEFT"><BR><BR>| ==> <DIV ALIGN="LEFT">| [see above]
+Book:ID=bk_PostingOfTheHunt:Name=The Posting of the Hunt: |describe explains| ==> |describe|
+Book:ID=BookSkill_Athletics1:Name=The Ransom of Zarek: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=BookSkill_Athletics1:Name=The Ransom of Zarek: |by carriage| ==> |my carriage|
+Book:ID=BookSkill_Athletics1:Name=The Ransom of Zarek: |him time| ==> |him less time|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |Sym­machus| ==> |Symmachus|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |neighbor­ing| ==> |neighboring|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |aston­ishment| ==> |astonishment|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |occa­sions| ==> |occasions|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |dis­guised| ==> |disguised|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |protec­tion| ==> |protection|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |par­ticular| ==> |particular|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |sol­diers| ==> |soldiers|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |threat­ened| ==> |threatened|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |never­theless| ==> |nevertheless|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |alot| ==> |a lot|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |Silgrod| ==> |Silgrad| [two instances]
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |Mournhold-a| ==> |Mournhold -- a|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |attend-and| ==> |attend -- and|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |oath-that| ==> |oath -- that|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |presentable-or| ==> |presentable -- or|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |eyes-before| ==> |eyes -- before|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |reasoned-correctly| ==> |reasoned -- correctly|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |out-that| ==> |out -- that|
+Book:ID=bk_RealBarenziah1:Name=The Real Barenziah v I: |realized-but| ==> |realized -- but|
+Book:ID=bk_realbarenziah3:Name=The Real Barenziah v III: |Mourn­hold| ==> |Mournhold|
+Book:ID=bk_realbarenziah3:Name=The Real Barenziah v III: |Sym­machus| ==> |Symmachus|
+Book:ID=bk_realbarenziah3:Name=The Real Barenziah v III: |gen­eral| ==> |general|
+Book:ID=bk_realbarenziah3:Name=The Real Barenziah v III: |pre­ference| ==> |preference|
+Book:ID=bk_realbarenziah3:Name=The Real Barenziah v III: |contrib­uting| ==> |contributing|
+Book:ID=bk_realbarenziah3:Name=The Real Barenziah v III: |emp­tiness| ==> |emptiness|
+Book:ID=bk_realbarenziah3:Name=The Real Barenziah v III: |are like| ==> |are likely|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |vis­its| ==> |visits|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |forgot­ten| ==> |forgotten|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |hand­some| ==> |handsome|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |any­thing| ==> |anything|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |for­gotten| ==> |forgotten|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |mar­riage| ==> |marriage|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |weath­ered| ==> |weathered|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |pro­duced| ==> |produced|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |free­dom| ==> |freedom|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |con­versation| ==> |conversation|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |cham-ber| ==> |chamber|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |con­trols| ==> |controls|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |pretence| ==> |pretense|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |aban­doned| ==> |abandoned|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |admantium| ==> |adamantium|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |mas­sive| ==> |massive|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |hold­ing| ==> |holding|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: | exis­tence| ==> | existence|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |suf­fered| ==> |suffered|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |tele­port| ==> |teleport|
+Book:ID=bk_realbarenziah4:Name=The Real Barenziah v IV: |would I| ==> |I would|
+Book:ID=bk_RealBarenziah5:Name=The Real Barenziah v V: |pretence| ==> |pretense| [two instances]
+Book:ID=bk_RealBarenziah5:Name=The Real Barenziah v V: |carven| ==> |carved|
+Book:ID=bk_RealBarenziah5:Name=The Real Barenziah v V: |parlour| ==> |parlor|
+Book:ID=bk_RealBarenziah5:Name=The Real Barenziah v V: |Summurset| ==> |Summerset|
+Book:ID=bk_RealBarenziah5:Name=The Real Barenziah v V: |pensively.  <BR>Barenziah| ==> |pensively. <BR><BR>Barenziah|
+Book:ID=bk_RealBarenziah5:Name=The Real Barenziah v V: |suddenly he| ==> |suddenly it|
+Book:ID=bk_RealBarenziah5:Name=The Real Barenziah v V: |till when| ==> |until when|
+Book:ID=BookSkill_Light Armor1:Name=The Rear Guard: |a apple| ==> |an apple|
+Book:ID=bk_redbookofriddles:Name=The Red Book of Riddles: |diverse| ==> |divers| [though it appear I just introduced an error, this sentence is written in Elizabethan English, where "divers" was the correct spelling of "diverse"]
+Book:ID=bk_tamrielicreligions:Name=The Ruins of Kemel-Ze: |Vvardenfel| ==> |Vvardenfell| [two instances]
+Book:ID=bk_tamrielicreligions:Name=The Ruins of Kemel-Ze: |carven| ==> |carved|
+Book:ID=bk_tamrielicreligions:Name=The Ruins of Kemel-Ze: |golden kind| ==> |golden king|
+Book:ID=bk_thesevencurses:Name=The Seven Curses: |townfolk| ==> |townsfolk|
+Book:ID=bk_thesevencurses:Name=The Seven Curses: |oath-breakers for their| ==> |oath-breaking for its|
+Book:ID=bk_truenoblescode:Name=The True Noble's Code: |the Morrowind| ==> |Morrowind|
+Book:ID=bk_truenoblescode:Name=The True Noble's Code: |show duty| ==> |shows duty|
+Book:ID=bk_truenoblescode:Name=The True Noble's Code: |Redoran's warrior| ==> |Redoran's warriors|
+Book:ID=bk_wildelves:Name=The Wild Elves: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=bk_wildelves:Name=The Wild Elves: |Gwilym| ==> |Gwylim| [two instances]
+Book:ID=bookskill_security2:Name=The Wolf Queen, Book I: |Magnus's| ==> |Magnus'|
+Book:ID=bookskill_hand to hand2:Name=The Wolf Queen, Book II: |whose| ==> |whom|
+Book:ID=bookskill_hand to hand2:Name=The Wolf Queen, Book II: |Vhokken idea| ==> |Vhokken's idea|
+Book:ID=bookskill_hand to hand2:Name=The Wolf Queen, Book II: |it's isn't| ==> |it isn't|
+Book:ID=bookskill_illusion1:Name=The Wolf Queen, Book III: |choses| ==> |chooses|
+Book:ID=bookskill_illusion1:Name=The Wolf Queen, Book III: |will dead| ==> |will be dead|
+Book:ID=bookskill_illusion1:Name=The Wolf Queen, Book III: |few months| ==> |few months'|
+Book:ID=bookskill_mercantile2:Name=The Wolf Queen, Book IV: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=bookskill_mercantile2:Name=The Wolf Queen, Book IV: |Antiochus's| ==> |Antiochus'|
+Book:ID=bookskill_mercantile2:Name=The Wolf Queen, Book IV: |great great great great great granduncle| ==> |great-great-great-great-great-granduncle|
+Book:ID=bookskill_mercantile2:Name=The Wolf Queen, Book IV: |stain| ==> |strain|
+Book:ID=bookskill_mercantile2:Name=The Wolf Queen, Book IV: |splitting| ==> |spitting|
+Book:ID=bookskill_mercantile2:Name=The Wolf Queen, Book IV: |Artaeum.  The| ==> |Artaeum, the|
+Book:ID=bookskill_speechcraft2:Name=The Wolf Queen, Book V: |Yokunda| ==> |Yokuda|
+Book:ID=bookskill_speechcraft2:Name=The Wolf Queen, Book V: |Cyrodilic| ==> |Cyrodiilic|
+Book:ID=bookskill_speechcraft2:Name=The Wolf Queen, Book V: |days| ==> |days'|
+Book:ID=bookskill_sneak1:Name=The Wolf Queen, Book VI: |the war may not permit it| ==> |thought the war may not have permitted it| [switched from past tense mid-sentence]
+Book:ID=bookskill_speechcraft4:Name=The Wolf Queen, Book VII: |bath| ==> |bathe|
+Book:ID=bookskill_speechcraft4:Name=The Wolf Queen, Book VII: |He had been| ==> |He has been|
+Book:ID=BookSkill_Enchant2:Name=The Wolf Queen, Book VIII: |month long| ==> |month-long|
+Book:ID=BookSkill_Enchant2:Name=The Wolf Queen, Book VIII: |Katarish| ==> |Katariah|
+Book:ID=BookSkill_Enchant2:Name=The Wolf Queen, Book VIII: |coronated| ==> |coroneted|
+Book:ID=bk_yellowbookofriddles:Name=The Yellow Book of Riddles: |[[The| ==> |[The|
+Book:ID=bk_yellowbookofriddles:Name=The Yellow Book of Riddles: |conversation.]]| ==> |conversation.]|
+Book:ID=bk_yellowbookofriddles:Name=The Yellow Book of Riddles: |Bosmer,| ==> |Bosmer|
+Book:ID=bk_arrilles_tradehouse:Name=tradehouse notice: [name itself] |tradehouse notice| ==> |Tradehouse Notice|
+Book:ID=bk_arrilles_tradehouse:Name=tradehouse notice: |Hereas| ==> |Whereas|
+Book:ID=bk_arrilles_tradehouse:Name=tradehouse notice: |do not| ==> |does not|
+Book:ID=bk_arrilles_tradehouse:Name=tradehouse notice: |doe not| ==> |shall not| [two instances]
+Book:ID=bookskill_short blade1:Name=Unnamed Book: |nonexistant| ==> |nonexistent|
+Book:ID=bookskill_short blade1:Name=Unnamed Book: |curiousity| ==> |curiosity|
+Book:ID=bookskill_short blade1:Name=Unnamed Book: |blood stained| ==> |bloodstained|
+Book:ID=bookskill_short blade1:Name=Unnamed Book: |targets| ==> |target's|
+Book:ID=bookskill_short blade1:Name=Unnamed Book: |St Rilms| ==> |St. Rilms|
+Book:ID=bk_vampiresofvvardenfell1:Name=Vampires of Vvardenfell, v I: |<DIV ALIGN="LEFT"><BR><BR>| ==> <DIV ALIGN="LEFT">| [last line of the book was an "orphan" on its own page; a typesetter would eliminate this]
+Book:ID=bk_vampiresofvvardenfell2:Name=Vampires of Vvardenfell, v II: |from deliberately infecting| ==> |to deliberately infect|
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |Cyrodilic| ==> |Cyrodiilic| [five instances]
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |Riddle-T'har| ==> |Riddle'Thar|
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |diety| ==> |deity|
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |Psijiic| ==> |Psijic|
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |with Kynareth| ==> |with Kyne|
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |the Golden| ==> |in the Golden|
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |history.<BR>Y'ffre| ==> |history.<BR><BR>Y'ffre|
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |He/she has| ==> |He has|
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |he/she taught| ==> |he taught|
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |he/she could| ==> |he could|
+Book:ID=bk_varietiesoffaithintheempire:Name=Varieties of Faith...: |Knhaten| ==> |Knahaten|
+Book:ID=bookskill_marksman3:Name=Vernaccus and Bourlor: |fledging| ==> |fledgling|
+Book:ID=bookskill_marksman3:Name=Vernaccus and Bourlor: |Bal.<BR>“I| ==> |Bal.<BR><BR>“I|
+Book:ID=bookskill_marksman3:Name=Vernaccus and Bourlor: |him.<BR>Then| ==> |him. Then|
+Book:ID=bk_vivecandmephala:Name=Vivec and Mephala: |Almsivi| ==> |ALMSIVI|
+Book:ID=bk_vivecandmephala:Name=Vivec and Mephala: |Almsivi's| ==> |ALMSIVI's|
+Book:ID=bk_vivecandmephala:Name=Vivec and Mephala: |associated the| ==> |associated with the|
+Book:ID=bookskill_restoration1:Name=Withershins: |censors| ==> |censers|
+Book:ID=bookskill_restoration1:Name=Withershins: |wellworn| ==> |well-worn|
+Book:ID=bookskill_restoration1:Name=Withershins: |headress| ==> |headdress|
+Book:ID=bookskill_restoration1:Name=Withershins: |Cyrodilic| ==> |Cyrodiilic| [two instances]
+Book:ID=BookSkill_Long Blade1:Name=Words and Philosophy: |Summurset| ==> |Summerset| [two instances]
+Book:ID=BookSkill_Long Blade1:Name=Words and Philosophy: |than their| ==> |that their|
+Book:ID=bk_wordsclanmother:Name=Words of Clan Mother Ahnissi: |desserts| ==> |deserts|
+Book:ID=bk_ynglingledger:Name=Yngling's Ledger: |Redoran| ==> |Hlaalu|
+Book:ID=bk_a1_11_zainsubaninotes:Name=Zainsubani's Notes: |Others  Ashlanders| ==> |Other Ashlander|
+
+Tribunal
+--------
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |linked to the| ==> |linked to the history of Tamriel.|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |Liested| ==> |Listed|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |Dark Elven goddess| ==> |Daedra| [note that this and following entries were all copied from the Morrowind book ID=bk_Yagrum's_Bookl:Name=Tamrielic Lore]
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |and the goddess| ==> |and the Daedra|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |It is she| ==> |It is he|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |Ring of the Khajiit| ==> |Ring of Khajiit|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |Mehrunes Razor| ==> |Mehrunes' Razor|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |Mehrune's Razor| ==> |Mehrunes' Razor|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |lhas| ==> |has|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |it's weilder| ==> |its wielder|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |wearers| ==> |wearer's|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |Eidelon| ==> |Eleidon|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |sought after| ==> |sought-after|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |to be resist| ==> |to resist|
+Book:ID=bk_Artifacts_Tamriel:Name=Famed Artifacts of Tamriel: |<BR>Daedric| ==> |<BR><BR>Daedric|
+Book:ID=bk_Alen_note:Name=handwritten letter: [name itself] |handwritten| ==> |Handwritten|
+Book:ID=bk_Alen_note:Name=handwritten letter: |handwritten letter<BR><BR>[Addressed| ==> |[Handwritten letter. Addressed|
+Book:ID=bk_Alen_note:Name=handwritten letter: |your faithful| ==> |Your faithful|
+Book:ID=bk_Irano_note:Name=handwritten note: [name itself] |handwritten| ==> |Handwritten|
+Book:ID=bk_Irano_note:Name=handwritten note: |handwritten note<BR><BR>[A| ==> |[Handwritten note. A|
+Book:ID=book_dwe_cogs00:Name=Old Dwemer Book: |maintenence| ==> |maintenance|
+Book:ID=book_dwe_mach00:Name=Old Dwemer Book: |maintenence| ==> |maintenance|
+Book:ID=bk_playscript:Name=The Horror of Castle Xyr: |Cyrodilic| ==> |Cyrodiilic| [two instances]
+Book:ID=bk_playscript:Name=The Horror of Castle Xyr: | hat was| ==> |What was| [error not present in the original Morrowind edition bookskill_destruction1]
+Book:ID=bk_playscript:Name=The Horror of Castle Xyr: |ashlander| ==> |Ashlander| [other instances were corrected from bookskill_destruction1 but one was missed]
+Book:ID=bk_playscript:Name=The Horror of Castle Xyr: |been round| ==> |been 'round|
+Book:ID=bk_playscript:Name=The Horror of Castle Xyr: |crystalized| ==> |crystallized|
+Book:ID=bk_playscript:Name=The Horror of Castle Xyr: |expotentially| ==> |exponentially|
+Book:ID=bk_playscript:Name=The Horror of Castle Xyr: |similiar| ==> |similar|
+Book:ID=bk_playscript:Name=The Horror of Castle Xyr: |ANANA/IACHILLA| ==> |ANARA/IACHILLA| [two instances]
+Book:ID=bk_playscript:Name=The Horror of Castle Xyr: |Anana/Iachilla| ==> |Anara/Iachilla|
+Book:ID=bk_playscript:Name=The Horror of Castle Xyr: |torchs| ==> |torches|
+
+Bloodmoon
+---------
+Book:ID=bk_Airship_Captains_Journal:Name=Airship Captain's Journal: |Ald'Ruhn| ==> |Ald'ruhn| [two instances]
+Book:ID=bk_Airship_Captains_Journal:Name=Airship Captain's Journal: |they're| ==> |their|
+Book:ID=bk_snowprince:Name=Fall of the Snow Prince: |shined| ==> |shone|
+Book:ID=sc_witchnote:Name=Note from a Glenmoril Witch: |wil| ==> |will|
+Book:ID=sc_witchnote:Name=Note from a Glenmoril Witch: |possible<BR>| ==> |possible.<BR><BR>|
+Book:ID=sc_witchnote:Name=Note from a Glenmoril Witch: |it.<BR>| ==> |it.<BR><BR>|
+Book:ID=sc_rumornote_bm:Name=Odd Rumor: |Solstheim....<BR>| ==> |Solstheim....<BR><BR>|
+Book:ID=sc_fjaldingnote:Name=Old, Wet Note: |Jolgierr| ==> |Jolgeirr|
+Book:ID=sc_Chappy_sniper_test:Name=sc_Chappy_sniper_test:Name=Scroll of the Hidden killer: [name itself] |the Hidden killer| ==> |The Hidden Killer|
+Book:ID=sc_hiddenkiller:Name=Scroll of the Hidden Killer: [name itself]: |the| ==> |The|
+Book:ID=bk_Sovngarde:Name=Sovngarde, a Reexamination: |wth| ==> |with|
+Book:ID=bk_Sovngarde:Name=Sovngarde, a Reexamination: |of Skyrim| ==> |in Skyrim|
+Book:ID=bk_BM_Aevar:Name=The Story of Aevar Stone-Singer: |shaman could| ==> |shamans could|
+Book:ID=bk_ThirskHistory:Name=Thirsk, a History: |lie dormant| ==> |lay dormant|
+Book:ID=bk_ThirskHistory:Name=Thirsk, a History: |Forth| ==> |Fort|
+Book:ID=bk_ThirskHistory_revised_f:Name=Thirsk, a History -- Revised: |lie dormant| ==> |lay dormant|
+Book:ID=bk_ThirskHistory_revised_f:Name=Thirsk, a History -- Revised: |work. <br>Expansion:| ==> |work.<br><br>Expansion:|
+Book:ID=bk_ThirskHistory_revised_m:Name=Thirsk, a History -- Revised: |lie dormant| ==> |lay dormant|
+Book:ID=bk_ThirskHistory_revised_m:Name=Thirsk, a History -- Revised: |work. <br>Expansion:| ==> |work.<br><br>Expansion:|

@@ -1,0 +1,36 @@
+Expansion Summon Icons
+v1.3
+by hardek
+
+--Description
+Tribunal and Bloodmoon together add four new creature summons, but the spell and effect icons do not share the exact style of the original game. This mod contains new icons which no longer look out of place next to the originals.
+
+--Changelog
+-v1.3
+Remade the small icons so they look more like the originals.
+
+--Installation
+Move the Icons folder from this mod into the Data Files folder.
+
+--Uninstallation
+Delete the following files from the Icons\s\ folder.
+	B_Tx_S_Smmn_Bear.dds
+	B_Tx_S_Smmn_Bonewolf.dds
+	B_Tx_S_Smmn_Fabrict.dds
+	B_Tx_S_Smmn_Wolf.dds
+	Tx_S_Smmn_Bear.dds
+	Tx_S_Smmn_Bonewolf.dds
+	Tx_S_Smmn_Fabrict.dds
+	Tx_S_Smmn_Wolf.dds
+
+--Permissions
+All dds files in this mod were created by me based on assets belonging to Bethesda Softworks.
+Thus, this mod may be used or redistributed only for Morrowind, and only according to the terms of Bethesda Softworks' License. This text file must be included if any part of this mod is redistributed.
+
+--Credits
+Bethesda Softworks, for Morrowind
+dotPDN LLC, for Paint.NET
+Timeslip, for BSAUnpacker
+
+--Contact
+Find me as hardek at Nexus Mods: https://www.nexusmods.com/users/791999

@@ -1,0 +1,3 @@
+Spirithawke
+
+Have you ever been swimming in an underwater cave and gotten stuck on those silly plants and then drowned?  Here is a small tweak for you to prevent that.  It appears that in_cave_plant10.nif has a tiny, tiny collision box on it, that when the nif is scaled up (like in those underwater caves), becomes big enough for you to get stuck on.  I have changed the way the plant deals with not having collision.  Here is the fixed nif.   Just extract to Data Files and all will be well.  Enjoy no longer getting stuck while swimming through those plants.  If someone would like to include this in one of their mesh fix compilations...feel free. :D

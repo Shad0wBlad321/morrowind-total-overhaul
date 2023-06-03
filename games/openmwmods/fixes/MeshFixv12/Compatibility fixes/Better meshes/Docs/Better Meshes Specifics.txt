@@ -1,0 +1,145 @@
+Better Meshes plus Optimization:
+	By Tarius
+
+	Version 1.0
+
+===========================================================================
+			     Table of Contents:
+===========================================================================
+
+1.	Description.
+2.	Installation.
+3.	Full List.
+4.	Change Log.
+5.	Usage
+6.	Contact Me.
+
+===========================================================================
+	1.			Description.
+===========================================================================
+
+A simple mesh replacer that replaces some of the older meshes in Morrowind 
+as well as some of the currently replaced meshes. Meshes in this pack which 
+replace current replacers will look just as good but will use alot less polys, 
+hence the name Optimization.
+The new meshes fit seamlessly with the originals so no editing is needed.
+
+
+
+===========================================================================
+	2.		       Installation.
+===========================================================================
+
+To install, just copy the folder "Meshes" into your "Morrowind/Data Files" 
+folder. 
+
+No ESP is required.
+
+===========================================================================
+	3.			 Full List.
+===========================================================================
+The list below is of every mesh that is being replaced.
+This excludes bounding boxes which are usually no more then a couple dozen 
+polys.
+
+o=original poly #, N=Mine, I=current
+Furn_Com_Stool_02
+O: 146
+N: 1640
+I: 4416
+
+furn_com_barstool
+O:124
+N:792
+I:1412
+
+furn_com_planter
+O:208
+N:1640
+I:4320
+
+furn_com_cauldron_01
+O:275
+N:2700
+I:7124
+
+furn_com_cauldron_02
+O:349
+N:6248
+I:9240
+
+Furn_Com_Table_05
+O:100
+N:530
+I:2336
+
+furn_cushion_round 01-07
+O:96
+N:1400
+I:2304
+
+furn_com_lantern_hook and furn_com_lantern_hook_02
+O:136
+N:1494
+I:3034
+
+1.Total original:2146
+2.Total mine:26338
+3.Total gained over originals:24192
+4.Total from current replacers:51044
+5.Total saved over current replacers:24706
+((I might as well explain this out some as I know some people will 
+just not get it.
+#3 is the total additional polys I have added to the meshes
+#5 is the total number of polys that are being removed by 
+using my replacers instead of others))
+
+
+flora_marshmerrow_01
+O:211
+N:879
+
+flora_marshmerrow_02
+O:175
+N:683
+
+flora_marshmerrow_03
+O:27
+N:299
+
+furn_com_chair_01
+O:258
+N:1396
+
+Total Original:671
+Total mine:3257
+Total Gained:2586
+===========================================================================
+	4.			Change  Log.
+===========================================================================
+
+1.0:
+	Initial Release
+
+===========================================================================
+	5.			Usage.
+===========================================================================
+
+You can use these meshes in whatever you want, even other games, there is no 
+need to contact me. The only thing I ask is for you not to take credit for 
+something that isnt yours although you dont even have to list my name if you 
+dont want to.
+While most replacers are simple modifications of the original meshes, my meshes, 
+while looking the same as the originals, are made completely from scratch and 
+include no part of the original meshes making them completely mine to do with 
+as I please.
+
+
+Thanks to Bethesda for making the original models  from  which  these  were 
+	based.
+
+===========================================================================
+	6.			Contact  Me.
+===========================================================================
+
+You can contact me on the Bethesda forums under the name Tarius or send me a message on this site.

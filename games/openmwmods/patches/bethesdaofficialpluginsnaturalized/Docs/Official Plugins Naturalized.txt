@@ -1,0 +1,41 @@
+Adamantium Armor Official Plugin Naturalized
+
+Forwards changes from the Adamantium Armor compatibility plugin from UMOPP with some changes:
+ - Implemented Adamantium Helm sales.
+ - Added dialogue about adamantium armor and reference to the mainland.
+ - Added some unique implementation around Vvardenfell (so the player can theoretically find one full set around Vvardenfell without purchasing it)
+
+
+Master Index Official Plugin Naturalized
+
+Forwards changes from the Master Index plugin from UMOPP with some changes:
+ - Implemented Propylon teleport scripts from Better Propylon Teleport Warp.
+ - Added requirements to be able to start the quest (Mages Guild membership, at least rank of Evoker, or being at least level 5).
+ - Added the capability to purchase a new master index for 2500 gold in the case of losing the index.
+ - Improved dialogue around the master and propylon indices.
+
+
+Area Effect Arrows Naturalized
+
+Forwards changes from the Area Effect Arrows plugin from UMOPP with some changes:
+ - Rebalances new arrows, bolts, and darts.
+ - Updated interior for Aradraen's shop.
+ - Added some unique dialogue to Aradraen and Foreign Quarter Lower Waistworks.
+ - Added new levelled enchanted ammo lists. It's recommended to generate a multipatch.
+
+
+Helm of Tohan Official Plugin Naturalized
+
+Forwards changes from the Helm of Tohan plugin from UMOPP with some changes:
+ - Increased the capability of the Adamantium Helm of Tohan to have an armor rating of 80 (matching daedric).
+ - The rumor pointing players in the right direction won't appear until level five, and isn't guaranteed the first time you ask about rumors.
+ - The dungeon has been revamped, and will now have some extra content, making the helm be more of a difficult thing to get to. The helm is now locked behind a door instead of in a chest.
+
+
+Siege at Firemoth Official Plugin Naturalized
+
+Forwards changes from the compatibility version of the Siege at Firemoth with some changes:
+ - Allows players to tell their companions to wait or follow, and buffs the companions up a bit.
+ - Changes up the skeletons in Fort Firemoth, reducing their numbers, while also adding some variety (several new skeleton "classes", ranging from strong to weak).
+ - Updates the Fort Firemoth interior. No more 50 rats in the cell. No more long empty and pointless hallway.
+ - Updated the ward of Akavir, has updated stats.

@@ -1,0 +1,8 @@
+Arvisrend's mod fixes the following issue with the game:
+
+BUG	Book bk_BM_StoneMap shows the Wind Stone south or northeast of the river merging, while it actually is slightly northwest of it.
+FIX	Moved the Wind Stone emblem and text in magicstonemap4.dds. Being an image editing noob, I couldn't keep it from looking strange in places, but at least it is 	geographically correct now... kind of.
+
+As stated, the fixed map looks strange in places, inconsistent with the rest of the stones. So I have gone into photoshop and touched it up.
+
+Melchior Dahrk

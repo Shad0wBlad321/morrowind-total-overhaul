@@ -1,0 +1,94 @@
+Expansion Resource Conflicts - Full
+v1.3
+by hardek
+
+--Description
+A small number of new texture files in the Tribunal and Bloodmoon bsa archives have the same names as files in the Morrowind archive. These new textures are very different to the originals and are required for meshes in the expansions, but (apparently unintentionally) affect the appearance of some Morrowind meshes. This mod contains edited resource files which ensure the Morrowind meshes keep the original textures while the expansions' meshes use the new textures as intended. Demonstration images are available in the Examples folder.
+Additionally, several texture files in the expansion archives are not new, but are copies of Morrowind files with odd or erroneous changes. Because loose files have priority over those within a bsa, the correct files are included with this to ensure they are used by the game.
+
+--Changelog
+-v1.21
+Added missing mesh: In_DB_ruin02.nif.
+Updated permissions, credits and contact details.
+-v1.3
+Updated In_DB_front.nif and Light_OM_censure.nif to Morrowind Optimisation Patch versions.
+
+--Installation
+Move the Meshes and Textures folders from this mod into the Data Files folder.
+If you are using Morrowind Optimisation Patch, install this mod after and overwrite when prompted. There will only be two conflicting files.
+If you are using other mods and are asked to replace files, choose no and see the Details section below.
+
+--Uninstallation
+Delete all the following files. If you didn't install all the files, delete only those you did install.
+Meshes\
+	i\In_DB_front.nif
+	i\In_DB_ruin02.nif
+	i\in_dwe_weathmach00_exp.nif
+	i\In_OM_Aquaduct.nif
+	i\In_OM_Aquaduct_end.nif
+	i\In_OM_Aquaduct_End02.nif
+	i\In_OM_Arch01.nif
+	i\In_OM_Arch02.nif
+	i\In_OM_Arch03.nif
+	l\Light_OM_censure.nif
+	m\Heartwood.nif
+Textures\
+	tx_dwrv_wall40.dds
+	tx_dwrv_wall40_tr.dds
+	tx_fireglow.dds
+	tx_firelight.dds
+	tx_poison_steam.dds
+	Tx_wood.dds
+	Tx_wood_bm.dds
+	vfx_restore_light.dds
+
+--Details
+These files were all taken directly from the bsas or game discs and have been edited as described here. They may conflict with graphical overhaul mods and similar mesh or texture replacers. If you want to use only certain files or make the appropriate changes to your current files, this section contains information about each one.
+-Meshes
+	i\in_dwe_weathmach00_exp.nif: from Tribunal.bsa, changed to use tx_dwrv_wall40_tr.dds instead of tx_dwrv_wall40.dds
+	i\In_DB_front.nif: from Tribunal.bsa, changed to use tx_rough_stone_wall_tr.dds instead of tx_rough_stone_wall.dds
+	i\In_DB_ruin02.nif: as above
+	i\In_OM_Aquaduct.nif: as above
+	i\In_OM_Aquaduct_End.nif: as above
+	i\In_OM_Aquaduct_End02.nif: as above
+	i\In_OM_Arch01.nif: as above
+	i\In_OM_Arch02.nif: as above
+	i\In_OM_Arch03.nif: as above
+	l\Light_OM_censure.nif: from Tribunal.bsa, changed to use vfx_fireglow.dds instead of tx_fireglow.dds
+	m\Heartwood.nif: from Bloodmoon.bsa, changed to use Tx_wood_bm.dds instead of Tx_wood.dds
+-Textures
+	tx_dwrv_wall40.dds: from Morrowind.bsa, to ensure priority over Tribunal.bsa
+		Original file was overridden by new texture in Tribunal.bsa
+	tx_dwrv_wall40_tr.dds: tx_dwrv_wall40.dds from Tribunal.bsa, for in_dwe_weathmach00_exp.nif
+		Renamed to prevent overriding Morrowind file
+	tx_fireglow.dds: from Morrowind.bsa, to ensure priority over Tribunal.bsa
+		Tribunal version was a copy of a different texture, vfx_fireglow.dds
+	tx_firelight.dds: vfx_firelight.dds from Morrowind.bsa, to ensure priority over Tribunal.bsa
+		Tribunal version was a copy of vfx_firelight.dds with broken transparency
+	tx_poison_steam.dds: from Morrowind.bsa, to ensure priority over Tribunal.bsa
+		Tribunal version was blank
+	tx_rough_stone_wall_tr.dds: tx_rough_stone_wall.dds from Tribunal.bsa, for In_DB*.nif and In_OM*.nif
+		Though the version in Bloodmoon.bsa with which this conflicts appears unused, the Tribunal meshes have been changed to ensure they use the correct texture.
+	Tx_wood.dds: from Morrowind.bsa, to ensure priority over Bloodmoon.bsa
+		Original file was overridden by new texture in Bloodmoon.bsa
+	Tx_wood_bm.dds: Tx_wood.dds from Bloodmoon.bsa, for Heartwood.nif
+		Renamed to prevent overriding Morrowind file
+	vfx_restore_light.dds: from Tribunal.bsa, to ensure priority over Morrowind.bsa
+		This is a more detailed texture than the Morrowind.bsa version, but is otherwise identical.
+
+--Permissions
+All dds files in this mod belong to Bethesda Softworks.
+All nif files in this mod are modified versions of assets belonging to Bethesda Softworks.
+Thus, this mod may be used or redistributed only for Morrowind, and only according to the terms of Bethesda Softworks' License. This text file must be included if any part of this mod is redistributed.
+
+--Credits
+Bethesda Softworks, for Morrowind
+Dave Humphrey, for NifTexture
+Dean P. Grimm/Thingamahoochie Software, for WinMerge
+The NifTools team, for NifSkope
+Remiros and Greatness7, for Morrowind Optimization Patch
+SoulKatana, for pointing out a missed mesh
+Timeslip, for BSAUnpacker
+
+--Contact
+Find me as hardek at Nexus Mods: https://www.nexusmods.com/users/791999

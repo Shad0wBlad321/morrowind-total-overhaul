@@ -1,0 +1,233 @@
+===============================
+     Correct_Meshes_4.5_1C
+ Не требует наличия дополнений
+===============================
+Версия от:	[TesAll.ru]
+	olol	- ZWolol2@rambler.ru
+DISCORD: ZWolol #5531 https://discord.gg/eem6Neg
+
+Здесь можно посмотреть другие плагины:
+http://fullrest.ru/forum/forum/273-plagini-ot-olol/
+
+Описание:
+=========
+Это простой реплейсер исправляющий недостатки стандартных моделей
+в виде текстурной развертки, выступов, щелей и нестыковок с другими.
+
+Установка:
+==========
+Не нужно никакого esp. Просто распакуйте архив в вашу папку Data Files!
+Для английской версии замените текстуру: "Data Files\BookArt\MagicStoneMap4.dds" из папки 'EN'.
+Для французской версии замените текстуру: "Data Files\BookArt\MagicStoneMap4.dds" из папки 'FR'.
+
+Совместимость:
+==============
+Если вы используете реплейсер анимаций, то не меняйте kf-фалы: xBase_Anim,xBase_Anim_Female,xBase_AnimKna
+
+Кредиты:
+========
+Использованы:
+ "Akulacave UV Fix" от Melchior Dahrk
+ "Arvisrend's Morrowind fixes" от arvisrend [arvythrend@googlemail.com]
+ "Boat_fix" от Ao3
+ "Expansion Resource Conflicts v1.3" от hardek
+ "Expansion Summon Icons v1.3" от hardek
+ "Grahl Eye Fix" и "Collision Fix 1.1" от PeterBitt
+ "Idle Animation Fix" от Greatness7
+ "longboat fix" от Rattfink
+ "Mesh Fix 1.2" от Slartibartfast
+ "Papill6n various graphics things v1.2" от Papill6n
+ "Ring Texture Fix" от random name
+ "SCR: longboat sail mesh fix" от Alaisiagae
+ "Unique Rings Tweaked" от Aleist3r
+ "Windoors Glow Common Interior Fix" от Zobator
+
+Взяты модели:
+ in_cave_plant10 от Spirithawke
+ Никс-гончая от Arcimaestro Anteres
+ кузница из "Forge Texture Fix" от LegoManIAm94
+ толстоспорник из "Stuporstar's Mesh Improvements Optimized v1.31" от Stuporstar
+ "fixed imp guardtower and platform meshes" от Slartibartfast
+ 3 модели из "Daedric Floor Texture Fix" от Slartibartfast
+
+---------------
+История версий:
+---------------
+Ver 4.5
+- Исправил размер модели furn_dwrv_bucket00 (заметил seneca37)
+- Исправил модели: in_XXXcave_08 (lava,mold,mud,py) (заметил doublemoulinet)
+- Исправил модели: in_v_s_int_lstairs_01,02 (заметил Hraefngar)
+
+Ver 4.4
+- Исправил коллизию у ex_vivec_hf_02,03 (заметил Millie)
+- Исправил модели ex_hlaalu_b_04, ex_colony_sop02_2 (заметил Wolli)
+- Поправил текстуру у ex_common_house_tall_02 (заметил PoodleSandwich)
+- Добавил kf-файлы: xBase_Anim,xBase_Anim_Female,xBase_AnimKna
+- Добавил текстуру magicstonemap4 для французской версии
+
+Ver 4.3
+- Добавил модель от Slartibartfast: in_dae_room_r_corner_02
+- Поправил текстуру у ex_nord_house_01 (заметил Trancemaster_1988)
+- Исправил модель in_dae_doorjamb_load (заметил CiceroTR)
+- Исправил модель ex_strongholdruin_wall01 (заметил doublemoulinet)
+- Исправил модель i_m_sewer_bend
+
+Ver 4.2
+- Поправил текстуру у ex_common_house_addon (заметил Leyawynn)
+- Поправил текстуру у ex_vivec_sbase_01 (заметил Trancemaster_1988)
+- Исправил модели in_pycave_28_1, ingred_bm_wolfsbane_01 (заметил Raedd)
+- Исправил модели in_dwe_hall_wall00_bk,exp (заметил Atrayonis)
+
+Ver 4.1
+- Поправил текстуру у ex_vivec_prisonmoon_01 (заметил PoodleSandwich)
+- Исправил модели ex_nord_house_02, in_hlaalu_room_stairsr (заметил Raedd)
+- Исправил модели bm_colony_house01,02,03, bm_colony_sop01,02, Furn_Colony_Shelf06
+- Добавил окна в bm_colony_bar-inn01, bm_colony_playerhome01
+- Поправил текстуру у in_velothi_s_ceiling_01
+- Исправил модели furn_ashpit_01,02
+
+Ver 4.0
+- Добавил исправления колец из "Unique Rings Tweaked"
+
+Ver 3.9
+- Исправил модели: ex_imp_govman_stair, in_dae_platform_stairs (заметил WSChase)
+- Исправил модели: ex_imp_govmansion_gate, ex_stronghold_wall02, ex_dae_ruin_platform_01,
+  ex_dae_ruin_stair01_short, in_XXXcave_doorway00 (lava,mold,mud)
+- Исправил "Vertex Colors" у in_velothismall_XXX (3way_02,curve_01,hall_03) (заметил DaRa)
+
+Ver 3.8
+- Исправил модель и коллизию у ex_colony_pier01
+- Исправил модели: in_thirsk_upstairs, bm_colony_playerhome01 (заметил Raedd)
+- Поправил текстуры у in_c_stone_room_XXX (corner,entry,side) (заметил Trancemaster_1988)
+
+Ver 3.7
+- Исправил модели bm_ka_bedding, ex_colony_const_house02
+- Исправил коллизию модели bm_colony_bar-inn01 (заметил G The Glamorous)
+- Исправил модели: ex_drystonewall_XXX (заметил WSChase)
+
+Ver 3.6
+- Исправил модели: in_XXXcave_16 (lava,mold,mud,py)
+- Исправил модели: in_XXXcave_21_1 (lava,mold,mud,py)
+- Исправил модели: bm_colony_mineentrance01, ex_colony_mine_entrance01
+- Исправил щели в ex_imp_keep_02 (заметила Jovana)
+- Заткнул дырку в стене у ex_vivec_ps_01 и поправил текстуру (заметил shivatheo)
+- Заткнул дырку в стене у ex_hlaalu_steps_07 (заметила Озэн Непоколебимая)
+- Поправил текстуры у ex_hlaalu_canal_12,13 (заметила Озэн Непоколебимая)
+- Поправил текстуры у ex_hlaalu_bridge_05,06 (заметил PoodleSandwich)
+- Исправлен цвет у ex_vivec_b_gap_t_01, ex_vivec_b_gap_b_01
+  и стыковка коллизии у ex_vivec_b_gap_b_01 (заметил shivatheo)
+- Перенес камни terrain_rocks_XXX_02,04 в Correct_UV_Rocks_1.1_1C
+
+Ver 3.5
+- исправил проблемы у модели in_mudcave_21_1
+- сделал симетричность модели in_sewer_scorr2_00 (заметил Raedd)
+- Добавил камням terrain_rocks_XXX_02,04 нижнюю часть
+
+Ver 3.4
+- Добавил модели от Slartibartfast:
+  ex_imp_guardtower_01, ex_imp_plat_01, in_dae_hall_l_endcap_01, in_dae_room_l_corner_02
+- исправил небольшую щель в моделе in_impbig_4way_01
+
+Ver 3.3
+- Добавил камням light_pitfire00 нижнюю часть
+- Исправил модели светильников шестого дома, чтобы можно было их брать в руку,
+  для совместимости с модом "Unlock Objects" от Lord Valarian
+
+Ver 3.2
+- Исправлена текстурная развертка in_imp_fireplace_grand (заметил barder888)
+- Добавил модель ex_stronghold_window00, чтоб не мерцала при движении (заметил Nocturnus)
+
+Ver 3.1
+- исправил выступ стены в окне in_c_plain_r_cwin_bay_01 (от Zobator)
+- исправил щель в моделе ex_imp_govmansion_wing из-за нестыковки при размещении (заметил ИерихоN)
+- исправил внутренность трубы in_dwe_pipe00_exp
+- исправил дно тигеля furn_dwrv_bucket00
+
+Ver 3.0
+- Добавлены исправленные текстуры колец от random name
+- Добавлены исправленные модели для 'Призрачного Стража'
+- Добавлена исправленная модель для 'Ботинок Апостола' от Deathruler
+- Исправлен конфликт анимаций для "KnockDown" и "DeathKnockDown" у 'Гоблина'
+- Исправлены "оторванные" лапки от корпуса у 'Паука-центуриона' (заметил Вевик)
+
+Ver 2.9
+- Добавлены исправления конфликтов дополнений от Doosty
+- Добавлены: b_tx_s_fire_shield.dds и tx_s_fire_shield.dds
+  иконки огненного щита были красные, как у негативных эффектов.
+
+Ver 2.8
+- Добавлена модель in_cave_plant10 от Spirithawke
+- Добавлена модель in_akulacave00 от Melchior Dahrk
+- Удалена ex_common_plat_corn для совместимости с MOAR_Mesh_Replacers_1C
+- У даедрических руин исправлены текстуры и развертка
+
+Ver 2.7
+- Немного поправлена ex_dwrv_enter00 и добавлена ей задняя стенка
+- Заменена модель толстоспорника из "Mesh Improvements Optimized" от Stuporstar
+- Немного поправлена текстурная развертка у furn_dae_rubble_03(a и b) (заметил Capostrophic)
+
+Ver 2.6
+- Добавлены модели интерьера Велоти, исправляющие не стыковки потолка и мостов
+
+Ver 2.5
+- Исправлена текстурная развертка и щель у ниши
+- Добавлена текстура tx_ice_troll03.dds из "Grahl Eye Fix" от PeterBitt
+- Исправлена коллизия у арки из "Collision Fix 1.1" от PeterBitt
+
+Ver 2.4
+- Заменил пару моделей из предыдущей версии
+
+Ver 2.3
+- Поправлено несколько моделей общего интерьера для стыковок балок
+
+Ver 2.2
+- Исправлена текстура у кузницы от LegoManIAm94
+- Убраны выступы и щели у модели ex_t_doorway_01
+
+Ver 2.1
+- Исправлена анимация 'knock out' левых лап у Никс-гончей от Antares
+
+Ver 2.0
+- Убрана щель на крыше башни
+- На угловом помосте закрыты щели в нижних балках (заметил Otis_Geo)
+
+Ver 1.9
+- Поправлены модели интерьеров башен
+- Исправлена текстурная развертка даедрической стены
+  и устранены щели в нескольких моделях руин (заметил qqqbbb)
+
+Ver 1.8
+- Добавлены модели стен призрачного предела, чтоб не мерцали при движении (заметила Menorra)
+
+Ver 1.7
+- Исправлена текстурная развертка левого стекла в двух окнах (заметил Марк К. Марцелл)
+
+Ver 1.6
+- Исправлена текстурная развертка в вехней части угловых столбов (заметил Papill6n)
+
+Ver 1.5
+- Добавлены модели общего интерьера, исправляющие щели в лестницах и нестыковки балок
+
+Ver 1.4
+- Добавлены модели даедрических руин из "Papill6n various graphics things v1.2" от Papill6n
+
+Ver 1.3
+- Добавлены модели интерьера Велоти, исправляющие нестыковки бордюров и колонн
+
+Ver 1.2
+- Немного поправлен пол кораблей и убраны щели у заднего бортика
+- Стандартная текстура палубы заменена для совместимости с ретекстурами мебели
+
+Ver 1.1
+- Добавлены модели кораблей из:
+	"longboat fix" от Rattfink
+	"SCR: longboat sail mesh fix" от Alaisiagae
+- Немного поправлена текстурная развертка и устранен провал 'носов' у кораблей
+- Винные бочки от Tarius перенесены в Better_Meshes_1C
+
+Ver 1.0
+- Добавлены винные бочки от Tarius
+- Добавлена модель толстоспорника из Tamriel Rebuilt
+- Добавлена стандартная текстура tx_poison_steam.dds которая испорчена в Tribunal
+- Убраны выступы, щели и исправлена нестыковка у моделей гробниц и даедрических руин
+- Удалена видимость из маркеров дыма

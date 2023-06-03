@@ -1,0 +1,220 @@
+______  ex_dae_ruin_platform_01  _____________________
+- Azura's Coast Region 19,-8
+	161597.719 -61679.605 1123.778		- slit
+- Bitter Coast Region -8,-2
+	-62170.902 -10557.337 354.601		- small slit
+- Norenen-dur, Basilica of Divine Whispers
+	4843.78 6530.894 1015.082		- slit
+	2387.817 6121.127 896.283		- slit
+
+______  ex_dae_ruin_stair01_short  ___________________
+- Sheogorad Region -1,22
+	-4160.813 182319.734 410.108		- slit
+- Azura's Coast Region 19,3
+	161661.109 34285.586 1527.031		- slit
+- Red Mountain Region 2,11
+	21065.564 93116.445 9502.474		- small slit
+- Red Mountain Region 1,8
+	9190.624 70711.555 12393.1		- very small slit
+- Grazelands Region 9,16
+	79802.961 134072.891 286.023		- small slit
+- Bitter Coast Region -8,-2
+	-63649.367 -10295.438 289.915		- slit
+- Norenen-dur, Citadel of Myn Dhrur
+	-224 3312 -64				- big slit
+	-224 3920 304				- big slit
+- Azura's Coast Region 9,-13
+	74614.789 -97389.945 1586.158		- slit
+	74099.313 -96771.766 1003.639		- slit
+- Ashalmawia, Shrine
+	-1980.89 1246.227 -464.963		- slit
+- Ashalmawia -10,15
+	-78092.336 125858.367 2400.713		- very small slit
+- Ascadian Isles Region 6,-10
+	56490.688 -73008.797 314.434		- big slit
+- Ald Daedroth 11,20
+	93973.984 167945.313 1099.603		- slit
+
+______  ex_stronghold_wall02  ________________________
+- Assu
+	-94.047 3857.348 66.287			- slit
+- Indoranyon
+	204.78 -2577.431 -27.593		- slit
+
+______  ex_strongholdruin_wall01  ____________________
+- Sud
+	2400 -704 -272				- slit
+	2224 -304 -272				- big slit
+	2248 -504 -272				- big slit
+
+______  in_dae_platform_stairs  ______________________
+- Ashlands Region 0,0
+	3054.714 3878.797 436.026		- slit
+- Ashurnibibi -7,-4
+	-56514.762 -30431.992 100.445		- slit
+- Azura's Coast Region 19,4
+	161440.047 33841.117 1541.735		- big gap and side
+	161979.047 33674.277 1628.268		- a slit from two sides
+- Bal Fell, Inner Shrine
+	4096 6400 14549.668			- a slit from two sides
+- Bitter Coast Region -8,-2
+	-62005.805 -10524.667 348.523		- big slit
+- Ibar-Dad
+	1440 1440 -1600				- big slit
+	-384.473 1855.025 -1409.61		- slit
+- Norenen-dur
+	1504 2304 -48				- slit
+- Norenen-dur, Basilica of Divine Whispers
+	3090.809 3163.948 -34.822		- slit
+- Norenen-dur, Citadel of Myn Dhrur
+	48 5328 485.667				- slit
+	-160.684 479.798 537.926		- slit
+- Norenen-dur, The Grand Stair
+	-4352 3872 -367.821			- small slit
+- Sheogorad Region 0,21
+	1773.655 174076.188 420.533		- slit
+- Ularradallaku, Shrine
+	-464.98 -1693.768 -113.39		- slit
+- West Gash Ragion -15,14
+	-117276.266 116113.016 -42.009		- slit
+
+______	in_lavacave_21_1  ____________________________
+- Ashanammu
+	369.775 1919.756 -393.542		- corner sticks out
+- Assumanu
+	450.543 2556.561 -257.684		- big slit
+- Bal Ur, Underground
+	2607.031 -3006.89 -391.662		- big slit
+- Kumarahaz
+	2051.271 1372.576 5.425			- slit
+- Sanit
+	9043.951 4942.845 -617.443		- small slit
+
+______	in_moldcave_21_1  ____________________________
+- Assemanu
+	-4315.923 -5028.983 -646.024		- corner sticks out
+- Assemanu, Shrine
+	6053.483 2150.745 12494.925		- big slit
+- Elith-Pal Mine
+	5327.525 -3756.635 -475.246		- big slit
+	491.92 -239.068 201.83			- slit
+- Ibar-Dad
+	-131.083 1807.454 -1328.956		- corner sticks out
+- Inanius Egg Mine
+	-229.452 1863.317 415.404		- corner sticks out
+- Massama Cave
+	320.813 4115.344 327.617		- corner sticks out
+- Old Mournhold: Battlefield
+	1380.421 -2677.663 1530.448		- big slit
+- Pulk
+	1706.612 -3342.502 -452.997		- big slit
+- Urshilaku, Latererus Burial
+	5675.928 6311.426 463.955		- slit
+	4634.803 6594.132 673.894		- small slit
+	4907.795 7480.869 1823.513		- big slit
+	5527.405 7046.014 1175.698		- big slit
+- Yassu Mine
+	-494.593 2096.969 212.239		- corner sticks out
+
+______	in_mudcave_21_1  _____________________________
+- Indoranyon
+	3050.921 -654.215 -192.615		- big slit
+	804.131 -1599.929 473.873		- slit
+	-1072.185 -2841.954 431.513		- big slit
+	937.168 -1513.347 427.376		- big slit
+	-368.887 -1660.869 259.977		- big slit
+- Mat
+	5136 6960 7712				- slit
+- Subdun
+	-2089.106 -5936.461 295.65		- slit
+
+______	in_pycave_21_1  ______________________________
+- Abanabi
+	-1937.53 -923.893 -462.916		- big slit
+	-2184.625 -307.789 -509.315		- big slit
+- Mausur Caverns
+	501.803 1014.663 -593.913		- big slit
+- Nammu
+	-644.666 4453.453 97.664		- slit
+- Norenen-dur, Basilica of Divine Whispers
+	3067.916 5989.856 140.378		- big slit
+	4424.213 6322.692 735.354		- big slit
+	1606.526 5590.714 475.980		- slit
+- Omaren Ancestral Tomb
+	9931.746 -3224.058 306.64		- big slit
+	8820.563 -3898.803 109.676		- big slit
+- Sadrith Mora, Telvanni Council House, Hermitage
+	3752.409 2831.88 2121.65		- slit
+- Tukushapal
+	-480 96 -704				- big slit
+	834.648 1450.321 -908.872		- slit
+	-2353.279 450.154 -908.872		- big slit
+- Yanemus Mine
+	-3472.886 1358.98 -1023.862		- slit
+	1984 912 -1376				- big slit
+
+______	in_pycave_28_1  ______________________________
+- Norenen-dur, The Teeth that Gnash
+	3846.097 8654.307 4032			- slit
+
+______  in_velothi_ashpit_01  ________________________
+- Andavel Ancestral Tomb
+	-4245.339 -4251.93 1920.235		- small slit
+	-84.056 -2979.09 1828.208		- very small slit
+- Baram Ancestral Tomb
+	-1606.444 -3359.651 1309.235		- small slit
+- Llervu Ancestral Tomb
+	243.158 245.65 78.96			- big slit
+- Ravel Ancestral Tomb
+	3947.944 252.909 36.208			- very small slit
+- Salvel Ancestral Tomb
+	2816 -192 805				- small slit
+- Sarys Ancestral Tomb
+	5248 6144 14533				- small slit
+- Seran Ancestral Tomb
+	721.501 1139.522 -215.896		- slit
+- Sethan Ancestral Tomb
+	640 -512 3395.37			- slit
+- Thiralas Ancestral Tomb
+	479.074 851.696 -42.974			- slit
+- Vivec, St. Olms Temple
+	128 0 -93.961				- very small slit
+
+______  in_velothi_ashpit_02  ________________________
+- Aralen Ancestral Tomb
+	5312 4448 10920				- very small slit
+	5312 3936 10920				- very small slit
+- Arethan Ancestral Tomb
+	1006.1 2299.044 -117.02			- slit
+- Balmora, Temple
+	3680.529 3523.04 14807.904		- slit
+- Favel Ancestral Tomb
+	2463.884 -254.634 648.254		- very small slit
+	2462.941 -739.162 647.369		- very small slit
+- Heran Ancestral Tomb
+	2972.149 1528.205 5.546			- very small slit
+	2659.855 1799.407 5.580			- very small slit
+- Llervu Ancestral Tomb
+	-256 256 8.551				- slit
+- Nelas Ancestral Tomb
+	288 896 808				- very small slit
+	288 384 808				- very small slit
+- Norvayn Ancestral Tomb
+	1856 -3072 1160				- very small slit
+	1856 -3584 1160				- very small slit
+- Reloth Ancestral Tomb
+	-968 1872 -312				- very small slit
+- Sarano Ancestral Tomb
+	-144.5 2117.808 -309.035		- slit
+	-144.5 1221.808 -309.035		- slit
+- Serano Ancestral Tomb
+	-2296.134 1509.281 1613.57		- small slit
+- Telvayn Ancestral Tomb
+	351.884 129.366 840.254			- small slit
+	350.941 -355.162 839.369		- very small slit
+- Vandus Ancestral Tomb
+	448 352 -792				- small slit
+	448 -160 -792				- small slit
+- Velas Ancestral Tomb
+	1887.884 961.367 -23.746		- very small slit
+	1886.941 476.839 -24.631		- very small slit

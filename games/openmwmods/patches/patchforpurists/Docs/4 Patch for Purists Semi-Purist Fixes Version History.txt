@@ -1,0 +1,75 @@
+				Patch for Purists - Semi-Purist Module
+				By Half11
+
+Version: 4.0.2
+
+
+Version 4.0.0 Update
+--------------------------------------
+
+BUG    There are two Ring of Surroundings in game. One that you get given for killing the bad people in Balmora, and one in a chest in Dren Plantation. The ring is clearly classed as a unique artifact item (a.o. Famed Artifacts of Tamriel).
+FIX    Removed the one from Dren Plantation as Varro's reward seems like its intended purpose.
+
+BUG	Alit does not have “Alit Bite” spell like the Diseased and Blighted variants.
+FIX	Corrected
+
+BUG	Resist Paralysis should cost 2.00 just like the other resist spells.
+FIX	|0.20| ==> |2.00|
+
+BUG	While all scrolls weight 0.20, the following four weigh 1.00:
+	Messenger Scroll
+	Milyn Faram's Scroll
+	Scroll of Daerir's Blessing
+	Scroll of Divine Intervention
+FIX	|1.00| ==> |0.20|
+
+BUG	While all notes weight 0.20, the following two weigh 1.00:
+	Note to Hrisskar
+	Note to Malsa Ules
+FIX	|1.00| ==> |0.20|
+
+
+Version 3.1.2 Update
+--------------------------------------
+
+BUG	The Apprentice's Probe probe weight is inconsistent among all thieves' tools.
+FIX	|1.00| ==> |0.25|
+
+
+Version 3.1.0 Update
+--------------------------------------
+
+BUG	Page from History of the Empire, Note from Bugrol, Note to Amaya and Ravila Memorial weighs nothing.
+FIX	Weight 0.10.
+
+BUG	Paper weighs 1.00.
+FIX	Weight 0.10.
+
+
+Version 3.0.3 Update
+--------------------------------------
+
+BUG	The enchant capacity of the Ebony Staff is absurd.
+FIX	Reduced the enchant capacity to 14 like other unique Ebony Staffs (from 90).
+
+
+Version 3.0.0 Update
+--------------------------------------
+
+BUG	In the main game (and the Bloodmoon expansion) all botanical ingredients have a weight of 0.10. However, the botanical ingredients that Tribunal introduced were ten times as heavy (1.00 weight).
+FIX	Corrected the weigth of the following ingredients:
+	Golden Sedge Flowers
+	Horn Lily Bulb
+	Lloramor Spines
+	Meadow Rye
+	Nirthfly Stalks
+	Noble Sedge Flowers
+	Scrib Cabbage
+	Sweetpulp
+	Timsa-Come-By Flowers
+
+BUG	Wrapped Corprusmeat Hunk (ingred_6th_corprusmeat_04) weighs nothing.
+FIX	Gave it weigth 0.50.
+
+BUG	The properties of the Expensive Shirt in the Tribunal expansion (Expensive_shirt_Mournhold) don't match its counterparts in the base game. Probably because its numbers are just placeholders (all 1's).
+FIX	Corrected the weigth, value and enchant properties.

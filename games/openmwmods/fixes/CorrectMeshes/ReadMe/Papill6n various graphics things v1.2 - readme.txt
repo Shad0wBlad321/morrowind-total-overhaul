@@ -1,0 +1,100 @@
+The Elder Scrolls III: Morrowind
+--------------------------------
+
+====================================
+| Papill6n various graphics things |
+====================================
+
+Author: Papill6n
+Version: 1.2
+
+
+Index:
+------
+1. Description
+2. Installation
+3. Version History
+4. Credits
+5. Contact
+
+
+===============
+1. Description
+===============
+
+This page contains all my creations/modifications of textures/meshes for the play Morrowind.
+
+I love Morrowind, his atmosphere, the origin graphics of the game. 
+But the game has ages and its textures appear from now on in a coarse way on our screens 24 inches :D
+
+But especially after years, there are still some textures of the game which were never retextured thus I am occupied (some). 
+And I also retextured certain things by testing the remained faithful ones to vanilla's textures.
+
+
+P.s: sorry for my poor english I'm a native french speaker.
+
+
+================
+2. Installation 
+================
+
+To install, simply open the folders which interest you and copy the folders (meshes, textures, ..) into the "Data Files" folder of your game Morrowind.
+
+
+===================
+3. Version History
+===================
+v1.2
+* fixed some new exteriors daedric ruins (included and fixed two exterior daedric ruin's meshes from the mod "Correct Meshes")
+* add the graphics things :
+  - Cork bulb
+  - Soulgems
+  - DarkUI new main menu
+
+v1.1 
+* fixed the bellow's mesh which was slighty too high in his axis
+* includes the pillow textures for the hammock's pillow
+* correct some typos
+* add the graphics things :
+  - Fabric on the imperial altar (with a variant version for a more vannila colour)
+  - Emperor Parasol + AC trees
+  - Broom
+  - Landscapes and grounds
+
+v1.0 initial release
+
+
+===========
+4. Credits
+===========
+
+Thanks to TrueRevan for his bugs reports ^^
+Lestat DeLioncourt, for some textures of his wonderful Reloaded's mods.
+Kaucukovnik VI, for some textures of his mod "Vvardenfell Landscapes".
+Ayse, Lord Gabryael, Qarl, Raptre, & Zuldazug, for some textures of their mod "Morrowind Visual Pack v3.0RC1".
+Masoxx, for three textures of his mod "Extremes Parasols".
+Plangkye, for four textures of his mod "Hi-Res Telvanni Textures".
+Kieve, for one texture of his mod "Telvanni Shrooms".
+Nich & CJW-Craigor for their mod "Correct UV trees" (include for the mushrooms stuff ^^)
+Nangsid, for his base texture for my retexture of the fabric on the imperial altars.
+Alaisiagae, for his mesh from "Longboat mesh sail fix"
+AOF, for his rope texture from his mod "AOF Containers"
+Tronvillain, for his smoothed meshes: furn_spinwheel00.nif, furn_spinningwheel_01.nif, furn_kneeling_stool_01.nif, misc_bellows10.nif
+Vurt, for his emperor parasol, bridge rope, silt strider's texture.
+Plangkye, for her texture "mask_glow.dds" from his mod "Better Almalexia"
+Mixed these three mods with somes tweaks from me (textures and meshes) to make a real Vanilla correct Soulgems replacer :
+ * Eart Wyrm => "Souly Soulgems(!)"
+ * Infectious Moon & NelothsMouth => "Soul Gem Replacer Retextured V.1.00"
+ * Jericho, Lokichan & Lord Alex => "Better Soul Gems V2.0"
+Ej-12, for the broom's mesh
+Connary, for his rope woven's texture
+Sir Bob, for his inital main menu texture.
+Tarius, for his mesh 'furn_com_chair_01.nif' and his texture modified by me 'Tx_fabric_com_chair.dds' from his mod "Better Meshes plus Optimization".
+ZWolol, for his two meshes 'Ex_Dae_Ruin_02_Skew' and 'Ex_Dae_Ruin_Entry.Max' from his mod "Correct Meshes", that I have fixed.
+Bethesda, for creating a game that I love and want to contibute to.
+
+
+===========
+5. Contact
+===========
+You can contact me on the Bethsoft's forum => http://forums.bethsoft.com/index.php?/user/546622-papill6n/

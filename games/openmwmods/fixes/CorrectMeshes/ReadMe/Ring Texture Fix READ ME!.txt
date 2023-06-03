@@ -1,0 +1,27 @@
+Ring Texture Fix (made using patch v1.2.0722)
+by 
+random name
+random_name_@hotmail.com
+--------------------------------
+Плагин изменяет черные текстуры колец на цветные. В игру не внесено никаких изменений.
+-unzip to C:\Program Files\Bethesda Softworks\Morrowind\Data Files
+(Don't forget to run Morrowind Launcher and put a check in the box next to Ring Texture Fix)
+--------------------------------
+
+What does this plugin do?
+
+-It Fixes the black ring textures to the colorful textures that Bethseda intended you to see.
+-All rings will have textures now, including enchanted rings.
+-The "glow effect" that enchanted rings HAS NOT been altered or changed.
+-A plugin was required, dropping the textures in the appropiate files did not fix the problem.
+-Have a look at the Before & After jpeg if you don't quite understand what this plugin does.
+-The Before & After jpeg can be deleted.
+--------------------------------
+
+e-mail me if you have questions,comments,problems or if you come across any rings that still have a dark black texture to them, but i am sure they all have textures now.
+
+enjoy!
+
+random name
+
+ 
